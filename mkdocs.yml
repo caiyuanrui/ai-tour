@@ -74,7 +74,11 @@ nav:
   - Home: index.md
   - Agents: agents/index.md
   - Multimodal: multimodal/index.md
-  - LLM Systems: llm-systems/index.md
+  - LLM Systems:
+    - llm-systems/index.md
+    - Inference Serving:
+      - llm-systems/inference-serving/index.md
+      - "Day 1 — Survey": llm-systems/inference-serving/2026-06-10-inference-serving.md
   - Generative Models: generative-models/index.md
   - Lab Reports: lab-reports/index.md
   - Synthesis: synthesis/index.md
