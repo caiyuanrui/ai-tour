@@ -1,0 +1,49 @@
+:root {
+  --md-primary-fg-color: #334155;
+  --md-primary-fg-color--light: #475569;
+  --md-primary-fg-color--dark: #1e293b;
+  --md-accent-fg-color: #64748b;
+  --md-accent-fg-color--light: #94a3b8;
+  --md-accent-fg-color--dark: #475569;
+}
+
+/* Tabs background */
+.md-tabs {
+  background-color: var(--md-primary-fg-color) !important;
+}
+
+/* Header */
+.md-header {
+  background-color: var(--md-primary-fg-color) !important;
+}
+
+/* Code block header */
+.md-typeset .highlighttable .linenodiv,
+.md-typeset .highlighttable .codehilitetable .linenodiv {
+  border-right: 1px solid var(--md-accent-fg-color);
+}
+
+/* Links */
+.md-typeset a {
+  color: var(--md-accent-fg-color);
+}
+.md-typeset a:hover {
+  color: var(--md-accent-fg-color--light);
+}
+
+/* Admonition colors */
+.md-typeset .admonition,
+.md-typeset details {
+  border-color: var(--md-primary-fg-color--light);
+}
+
+/* Search result highlighting */
+.md-search-result__article mark {
+  color: var(--md-accent-fg-color);
+}
+
+/* Table of contents */
+.md-nav--secondary .md-nav__item .md-nav__link:hover,
+.md-nav--secondary .md-nav__item .md-nav__link--active {
+  color: var(--md-accent-fg-color);
+}
