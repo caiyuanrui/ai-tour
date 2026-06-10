@@ -1,0 +1,93 @@
+site_name: AI Tour
+site_description: 研究地图 — agents, multimodal, LLM systems, generative models
+site_url: https://caiyuanrui.github.io/research-curriculum
+repo_url: https://github.com/caiyuanrui/research-curriculum
+edit_uri: blob/main/docs/
+
+theme:
+  name: material
+  icon:
+    logo: material/book-open-page-variant
+    repo: fontawesome/brands/github
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+    - header.autohide
+  palette:
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: 亮色模式
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: 暗色模式
+
+extra_css:
+  - https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - def_list
+  - tables
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Agents: agents/index.md
+  - Multimodal: multimodal/index.md
+  - LLM Systems: llm-systems/index.md
+  - Generative Models: generative-models/index.md
+  - Lab Reports: lab-reports/index.md
+  - Synthesis: synthesis/index.md
+  - Timeline: timeline.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/caiyuanrui/research-curriculum
+    - icon: fontawesome/solid/book-open
+      link: https://caiyuanrui.github.io/research-curriculum
+  generator: false
+  analytics:
+    provider: null
+
+copyright: CC BY-NC 4.0 · Built with MkDocs Material
