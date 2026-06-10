@@ -1,7 +1,7 @@
 site_name: AI Tour
 site_description: 研究地图 — agents, multimodal, LLM systems, generative models
-site_url: https://caiyuanrui.github.io/research-curriculum
-repo_url: https://github.com/caiyuanrui/research-curriculum
+site_url: https://caiyuanrui.github.io/ai-tour
+repo_url: https://github.com/caiyuanrui/ai-tour
 edit_uri: blob/main/docs/
 
 theme:
@@ -83,9 +83,9 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/caiyuanrui/research-curriculum
+      link: https://github.com/caiyuanrui/ai-tour
     - icon: fontawesome/solid/book-open
-      link: https://caiyuanrui.github.io/research-curriculum
+      link: https://caiyuanrui.github.io/ai-tour
   generator: false
   analytics:
     provider: null
