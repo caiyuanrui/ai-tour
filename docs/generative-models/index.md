@@ -1,13 +1,13 @@
 # Generative Models
 
 **时间：** 周四  
-**描述：** Diffusion, score-based models, flow matching, consistency models, and generative models for planning/control
+**描述：** Diffusion, score models, flow matching, consistency models, sampling
 
 ## Topics
 
 | Topic | Question | Status |
 |-------|----------|--------|
-| Diffusion Foundations | What are the core ideas behind denoising diffusion models? | ⬜ |
+| [Diffusion Foundations](diffusion-foundations/index.md) | What are the core ideas behind denoising diffusion models? | 🟢 Active — 1d, 3 papers, conf 0.45 |
 | Score-Based Models | How does score estimation define generation? | ⬜ |
 | Sampling | How do samplers trade quality, speed, and likelihood? | ⬜ |
 | Flow Matching | How does flow matching relate to diffusion and continuous normalizing flows? | ⬜ |

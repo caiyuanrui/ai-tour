@@ -87,7 +87,11 @@ nav:
     - Inference Serving:
       - llm-systems/inference-serving/index.md
       - "Day 1 — Survey": llm-systems/inference-serving/2026-06-10-inference-serving.md
-  - Generative Models: generative-models/index.md
+  - Generative Models:
+    - generative-models/index.md
+    - Diffusion Foundations:
+      - generative-models/diffusion-foundations/index.md
+      - "Day 1 — DDPM": generative-models/diffusion-foundations/2026-06-04-diffusion-foundations.md
   - Lab Reports: lab-reports/index.md
   - Synthesis: synthesis/index.md
   - Timeline: timeline.md
