@@ -7,3 +7,4 @@ This directory contains daily research-map notes for this topic.
 | Date | Papers | Confidence |
 |------|--------|------------|
 | [2026-06-04](2026-06-04-diffusion-foundations.md) | DDPM (Ho 2020) + Sohl-Dickstein 2015 + DDIM (Song 2021) | 0.00 → 0.45 |
+| [2026-06-11](2026-06-11-diffusion-foundations.md) | NCSN (Song & Ermon 2019) + SDE (Song 2021) + Improved NCSN | 0.45 → 0.65 |
