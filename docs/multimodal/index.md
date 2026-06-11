@@ -1,13 +1,13 @@
 # Multimodal, VLA, and Robotics
 
 **时间：** 周二  
-**描述：** Vision-language models, video understanding, grounding, VLA, robotics, and world models
+**描述：** VLM, video, grounding, VLA, world models, multimodal agents
 
 ## Topics
 
 | Topic | Question | Status |
 |-------|----------|--------|
-| VLM Pretraining | How are image-language models pretrained and aligned? | ⬜ |
+| [VLM Pretraining](vlm-pretraining/index.md) | How are image-language models pretrained and aligned? | 🟢 Active — 1d, 3 papers, conf 0.45 |
 | Image-Text Reasoning | How do models reason over visual and textual information? | ⬜ |
 | Video Understanding | How do models represent temporal information in video? | ⬜ |
 | Grounding | How do models connect text to regions, objects, actions, and time spans? | ⬜ |

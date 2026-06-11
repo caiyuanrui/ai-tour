@@ -77,7 +77,11 @@ nav:
     - Agent Architectures:
       - agents/architectures/index.md
       - "Day 1 — Survey": agents/architectures/2026-06-01-architectures.md
-  - Multimodal: multimodal/index.md
+  - Multimodal:
+    - multimodal/index.md
+    - VLM Pretraining:
+      - multimodal/vlm-pretraining/index.md
+      - "Day 1 — CLIP": multimodal/vlm-pretraining/2026-06-02-vlm-pretraining.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:
