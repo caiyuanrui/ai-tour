@@ -93,7 +93,11 @@ nav:
     - Diffusion Foundations:
       - generative-models/diffusion-foundations/index.md
       - "Day 1 — DDPM": generative-models/diffusion-foundations/2026-06-04-diffusion-foundations.md
-  - Lab Reports: lab-reports/index.md
+  - Lab Reports:
+    - lab-reports/index.md
+    - Project Planning:
+      - lab-reports/project-planning/index.md
+      - "Week 1": lab-reports/2026-06-06-week-1-lab.md
   - Synthesis: synthesis/index.md
   - Timeline: timeline.md
 
