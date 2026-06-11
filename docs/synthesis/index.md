@@ -1,6 +1,8 @@
 # Weekly Synthesis
 
 **时间：** 周日  
-**描述：** 每周跨领域总结，不读新论文
+**描述：** 跨领域总结与研究方向提炼
 
-每周日汇总本周各课程笔记，识别共通主题、矛盾和 thesis 方向。
+| Week | Date | Summary |
+|------|------|---------|
+| [Week 1](weekly/2026-06-07-weekly-synthesis.md) | 2026-06-07 | Agents / Multimodal / LLM Systems / Generative Models — first pass |

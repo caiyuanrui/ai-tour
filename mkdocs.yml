@@ -98,7 +98,10 @@ nav:
     - Project Planning:
       - lab-reports/project-planning/index.md
       - "Week 1": lab-reports/2026-06-06-week-1-lab.md
-  - Synthesis: synthesis/index.md
+  - Synthesis:
+    - synthesis/index.md
+    - Weekly:
+      - "Week 1": synthesis/weekly/2026-06-07-weekly-synthesis.md
   - Timeline: timeline.md
 
 extra:
