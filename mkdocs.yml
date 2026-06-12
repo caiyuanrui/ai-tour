@@ -79,6 +79,7 @@ nav:
       - "Day 1 — Survey": agents/architectures/2026-06-01-architectures.md
       - "Day 2 — ReAct": agents/architectures/2026-06-05-architectures.md
       - "Day 3 — ToT": agents/architectures/2026-06-08-architectures.md
+      - "Day 4 — CodeAct": agents/architectures/2026-06-12-architectures.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
