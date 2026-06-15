@@ -80,6 +80,7 @@ nav:
       - "Day 2 — ReAct": agents/architectures/2026-06-05-architectures.md
       - "Day 3 — ToT": agents/architectures/2026-06-08-architectures.md
       - "Day 4 — CodeAct": agents/architectures/2026-06-12-architectures.md
+      - "Day 5 — Generative Agents": agents/architectures/2026-06-15-architectures.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:

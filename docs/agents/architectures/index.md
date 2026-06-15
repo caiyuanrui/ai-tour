@@ -10,3 +10,4 @@ This directory contains daily research-map notes for this topic.
 | [2026-06-05](2026-06-05-architectures.md) | ReAct (Yao 2023) + Reflexion + Toolformer | 0.35 → 0.55 |
 | [2026-06-08](2026-06-08-architectures.md) | ToT (Yao 2023) + GoT + Self-Refine | 0.55 → 0.65 |
 | [2026-06-12](2026-06-12-architectures.md) | CodeAct (Wang 2024) + SWE-agent + Harness Survey | 0.65 → 0.75 |
+| [2026-06-15](2026-06-15-architectures.md) | Generative Agents (Park 2023) + Voyager + A-MEM | 0.75 → 0.85 |
