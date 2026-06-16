@@ -7,7 +7,7 @@
 
 | Topic | Question | Status |
 |-------|----------|--------|
-| [VLM Pretraining](vlm-pretraining/index.md) | How are image-language models pretrained and aligned? | 🟢 Active — 2d, 6 papers, conf 0.60 |
+| [VLM Pretraining](vlm-pretraining/index.md) | How are image-language models pretrained and aligned? | 🟢 Active — 3d, 9 papers, conf 0.68 |
 | Image-Text Reasoning | How do models reason over visual and textual information? | ⬜ |
 | Video Understanding | How do models represent temporal information in video? | ⬜ |
 | Grounding | How do models connect text to regions, objects, actions, and time spans? | ⬜ |
