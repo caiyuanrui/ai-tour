@@ -100,6 +100,7 @@ nav:
       - generative-models/diffusion-foundations/index.md
       - "Day 1 — DDPM": generative-models/diffusion-foundations/2026-06-04-diffusion-foundations.md
       - "Day 2 — NCSN": generative-models/diffusion-foundations/2026-06-11-diffusion-foundations.md
+      - "Day 3 — EDM": generative-models/diffusion-foundations/2026-06-18-diffusion-foundations.md
   - Lab Reports:
     - lab-reports/index.md
     - Project Planning:
