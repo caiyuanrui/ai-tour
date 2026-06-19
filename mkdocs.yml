@@ -81,6 +81,9 @@ nav:
       - "Day 3 — ToT": agents/architectures/2026-06-08-architectures.md
       - "Day 4 — CodeAct": agents/architectures/2026-06-12-architectures.md
       - "Day 5 — Generative Agents": agents/architectures/2026-06-15-architectures.md
+    - Tool Use:
+      - agents/tool-use/index.md
+      - "Day 1 — Toolformer": agents/tool-use/2026-06-19-tool-use.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
