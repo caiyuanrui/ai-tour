@@ -110,6 +110,9 @@ nav:
       - lab-reports/project-planning/index.md
       - "Week 1": lab-reports/2026-06-06-week-1-lab.md
       - "Day 2 — CogRouter": lab-reports/project-planning/2026-06-13-project-planning.md
+      - "Day 3 — Token Economics": lab-reports/project-planning/2026-06-20-project-planning.md
+    - Implementation Notes:
+      - lab-reports/implementation-notes/index.md
   - Synthesis:
     - synthesis/index.md
     - Weekly:
