@@ -6,7 +6,7 @@
 
 | 课程 | 时间 | 描述 | 进度 |
 |------|------|------|------|
-| [Agents](agents/index.md) | 周一、周五 | LLM agents, reasoning, tools, planning, RL-for-agents | 🟢 Active — Tool Use (1d, 3 papers, conf 0.35) / ✅ Architectures (5d, 15 papers, conf 0.85) |
+| [Agents](agents/index.md) | 周一、周五 | LLM agents, reasoning, tools, planning, RL-for-agents | 🟢 Active — Tool Use (2d, 6 papers, conf 0.52) / ✅ Architectures (5d, 15 papers, conf 0.85) |
 | [Multimodal, VLA & Robotics](multimodal/index.md) | 周二 | VLM, video, grounding, VLA, world models | 🟢 Active — VLM Pretraining (3d, 9 papers, conf 0.68) |
 | [LLM Systems](llm-systems/index.md) | 周三 | Inference, training, memory, distributed systems | 🟢 Active — Inference Serving (2d, 6 papers, conf 0.60) |
 | [Generative Models](generative-models/index.md) | 周四 | Diffusion, score models, flow matching | 🟢 Active — Diffusion Foundations (3d, 9 papers, conf 0.78) |
@@ -15,7 +15,7 @@
 
 ??? info "学习统计"
     - 课程数: 5 + 1 synthesis
-    - 论文阅读: 57 篇（19 主 + 38 相关）
+    - 论文阅读: 60 篇（20 主 + 40 相关）
     - 开始日期: 2026-06-01
 
 !!! tip "探索"

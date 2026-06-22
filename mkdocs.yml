@@ -84,6 +84,7 @@ nav:
     - Tool Use:
       - agents/tool-use/index.md
       - "Day 1 — Toolformer": agents/tool-use/2026-06-19-tool-use.md
+      - "Day 2 — AnyTool": agents/tool-use/2026-06-22-tool-use.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:

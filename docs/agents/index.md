@@ -8,7 +8,7 @@
 | Topic | Question | Status |
 |-------|----------|--------|
 | [Agent Architectures](architectures/index.md) | What are the recurring architectures behind useful LLM agents? | ✅ Completed — 5d, 15 papers, conf 0.85 |
-|| [Tool Use](tool-use/index.md) | How do language models decide when and how to use external tools? | 🟢 Active — 1d, 3 papers, conf 0.35 |
+| [Tool Use](tool-use/index.md) | How do language models decide when and how to use external tools? | 🟢 Active — 2d, 6 papers, conf 0.52 |
 | Planning | How do agents decompose, revise, and execute long-horizon tasks? | ⬜ |
 | Memory | What forms of memory help agents over long interactions? | ⬜ |
 | Reasoning | How do agents improve reasoning through search, reflection, verification? | ⬜ |
