@@ -92,6 +92,7 @@ nav:
       - "Day 1 — CLIP": multimodal/vlm-pretraining/2026-06-02-vlm-pretraining.md
       - "Day 2 — LLaVA": multimodal/vlm-pretraining/2026-06-09-vlm-pretraining.md
       - "Day 3 — SigLIP": multimodal/vlm-pretraining/2026-06-16-vlm-pretraining.md
+      - "Day 4 — MM1": multimodal/vlm-pretraining/2026-06-23-vlm-pretraining.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:

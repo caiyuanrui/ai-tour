@@ -4,3 +4,6 @@ site/
 .DS_Store
 __pycache__/
 *.pyc
+# Hermes state files — not part of the repo
+~/.hermes/
+./~/
