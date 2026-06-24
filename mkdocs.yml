@@ -99,6 +99,7 @@ nav:
       - llm-systems/inference-serving/index.md
       - "Day 1 — Survey": llm-systems/inference-serving/2026-06-10-inference-serving.md
       - "Day 2 — DistServe": llm-systems/inference-serving/2026-06-17-inference-serving.md
+      - "Day 3 — Speculative Decoding": llm-systems/inference-serving/2026-06-24-inference-serving.md
   - Generative Models:
     - generative-models/index.md
     - Diffusion Foundations:
