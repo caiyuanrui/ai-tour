@@ -107,11 +107,7 @@ nav:
       - "Day 1 — DDPM": generative-models/diffusion-foundations/2026-06-04-diffusion-foundations.md
       - "Day 2 — NCSN": generative-models/diffusion-foundations/2026-06-11-diffusion-foundations.md
       - "Day 3 — EDM": generative-models/diffusion-foundations/2026-06-18-diffusion-foundations.md
-  - Distributed Systems:
-    - distributed-systems/index.md
-    - GFS and HDFS:
-      - distributed-systems/gfs-hdfs/index.md
-      - "Day 1 — GFS": distributed-systems/gfs-hdfs/2026-06-11-gfs.md
+  - Lab Reports:
     - lab-reports/index.md
     - Project Planning:
       - lab-reports/project-planning/index.md
