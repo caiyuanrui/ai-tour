@@ -120,6 +120,9 @@ nav:
       - "Day 3 — Token Economics": lab-reports/project-planning/2026-06-20-project-planning.md
     - Implementation Notes:
       - lab-reports/implementation-notes/index.md
+      - "Day 1 — Token Budget Agent": lab-reports/implementation-notes/2026-06-27-implementation-notes.md
+    - Experiment Log:
+      - lab-reports/experiment-log/index.md
   - Synthesis:
     - synthesis/index.md
     - Weekly:
