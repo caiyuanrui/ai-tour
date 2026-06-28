@@ -127,7 +127,9 @@ nav:
     - synthesis/index.md
     - Weekly:
       - "Week 1": synthesis/weekly/2026-06-07-weekly-synthesis.md
+      - "Week 2": synthesis/weekly/2026-06-14-weekly-synthesis.md
       - "Week 3": synthesis/weekly/2026-06-21-weekly-synthesis.md
+      - "Week 4": synthesis/weekly/2026-06-28-weekly-synthesis.md
 
 extra:
   social:
