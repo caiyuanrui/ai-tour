@@ -124,6 +124,9 @@ nav:
       - "Day 1 — Token Budget Agent": lab-reports/implementation-notes/2026-06-27-implementation-notes.md
     - Experiment Log:
       - lab-reports/experiment-log/index.md
+      - "Day 1 — 87.9% Purification Benchmark": lab-reports/experiment-log/2026-07-04-experiment-log.md
+    - Failure Analysis:
+      - lab-reports/failure-analysis/index.md
   - Synthesis:
     - synthesis/index.md
     - Weekly:

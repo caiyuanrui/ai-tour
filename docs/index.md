@@ -10,7 +10,7 @@
 | [Multimodal, VLA & Robotics](multimodal/index.md) | 周二 | VLM, video, grounding, VLA, world models | 🟢 Active — VLM Pretraining (4d, 12 papers, conf 0.74) |
 | [LLM Systems](llm-systems/index.md) | 周三 | Inference, training, memory, distributed systems | 🟢 Active — Inference Serving (3d, 9 papers, conf 0.68) |
 | [Generative Models](generative-models/index.md) | 周四 | Diffusion, score models, flow matching | 🟢 Active — Score-Based Models / ✅ Diffusion Foundations (4d, 12 papers, conf 0.82) |
-| [Research Lab](lab-reports/index.md) | 周六 | Experiments, implementations, failures | 🟢 Active — Experiment Log / ✅ Implementation Notes (P3 prototype) / ✅ Project Planning (3 logs, conf 0.70) |
+| [Research Lab](lab-reports/index.md) | 周六 | Experiments, implementations, failures | 🟢 Active — Failure Analysis / ✅ Experiment Log (87.9% compression, conf 0.75) / ✅ Implementation Notes (P3 prototype) / ✅ Project Planning (3 logs, conf 0.70) |
 | [Weekly Synthesis](synthesis/index.md) | 周日 | 跨领域总结 | ✅ Week 1, ✅ Week 2, ✅ Week 3, ✅ Week 4 done |
 
 ??? info "学习统计"
