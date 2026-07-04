@@ -72,6 +72,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
+  - Timeline: timeline.md
   - Agents:
     - agents/index.md
     - Agent Architectures:
@@ -87,6 +88,9 @@ nav:
       - "Day 2 — AnyTool": agents/tool-use/2026-06-22-tool-use.md
       - "Day 3 — xLAM": agents/tool-use/2026-06-26-tool-use.md
       - "Day 4 — ChainCaps": agents/tool-use/2026-06-29-tool-use.md
+      - "Day 5 — Topic Capstone": agents/tool-use/2026-07-03-tool-use.md
+    - Planning:
+      - agents/planning/index.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
@@ -95,6 +99,7 @@ nav:
       - "Day 2 — LLaVA": multimodal/vlm-pretraining/2026-06-09-vlm-pretraining.md
       - "Day 3 — SigLIP": multimodal/vlm-pretraining/2026-06-16-vlm-pretraining.md
       - "Day 4 — MM1": multimodal/vlm-pretraining/2026-06-23-vlm-pretraining.md
+      - "Day 5 — Topic Capstone": multimodal/vlm-pretraining/2026-06-30-vlm-pretraining.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:
@@ -102,6 +107,7 @@ nav:
       - "Day 1 — Survey": llm-systems/inference-serving/2026-06-10-inference-serving.md
       - "Day 2 — DistServe": llm-systems/inference-serving/2026-06-17-inference-serving.md
       - "Day 3 — Speculative Decoding": llm-systems/inference-serving/2026-06-24-inference-serving.md
+      - "Day 4 — Chunked Prefill": llm-systems/inference-serving/2026-07-01-inference-serving.md
   - Generative Models:
     - generative-models/index.md
     - Diffusion Foundations:
@@ -112,6 +118,7 @@ nav:
       - "Day 4 — LDM": generative-models/diffusion-foundations/2026-06-25-diffusion-foundations.md
     - Score-Based Models:
       - generative-models/score-models/index.md
+      - "Day 1 — Consistency Distillation": generative-models/score-models/2026-07-02-score-models.md
   - Lab Reports:
     - lab-reports/index.md
     - Project Planning:
