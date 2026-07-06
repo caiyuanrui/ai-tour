@@ -91,6 +91,7 @@ nav:
       - "Day 5 — Topic Capstone": agents/tool-use/2026-07-03-tool-use.md
     - Planning:
       - agents/planning/index.md
+      - "Day 1 — Survey": agents/planning/2026-07-06-planning.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
