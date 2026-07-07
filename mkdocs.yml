@@ -103,6 +103,7 @@ nav:
       - "Day 5 — Topic Capstone": multimodal/vlm-pretraining/2026-06-30-vlm-pretraining.md
     - Image-Text Reasoning:
       - multimodal/image-text-reasoning/index.md
+      - "Day 1 — Comp. Vis. Reasoning Survey": multimodal/image-text-reasoning/2026-07-07-image-text-reasoning.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:

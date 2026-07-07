@@ -8,7 +8,7 @@
 | Topic | Question | Status |
 |-------|----------|--------|
 | [VLM Pretraining](vlm-pretraining/index.md) | How are image-language models pretrained and aligned? | ✅ Completed — 5d, 13 papers, conf 0.82 |
-| [Image-Text Reasoning](image-text-reasoning/index.md) | How do models reason over visual and textual information? | 🟢 Active |
+| [Image-Text Reasoning](image-text-reasoning/index.md) | How do models reason over visual and textual information? | 🟢 Active — 1d, 3 papers, conf 0.38 |
 | Video Understanding | How do models represent temporal information in video? | ⬜ |
 | Grounding | How do models connect text to regions, objects, actions, and time spans? | ⬜ |
 | Multimodal Agents | How can agents use perception for decision-making and tool use? | ⬜ |
