@@ -112,6 +112,9 @@ nav:
       - "Day 2 — DistServe": llm-systems/inference-serving/2026-06-17-inference-serving.md
       - "Day 3 — Speculative Decoding": llm-systems/inference-serving/2026-06-24-inference-serving.md
       - "Day 4 — Chunked Prefill": llm-systems/inference-serving/2026-07-01-inference-serving.md
+      - "Day 5 — Dynamic SplitFuse": llm-systems/inference-serving/2026-07-08-inference-serving.md
+    - KV Cache:
+      - llm-systems/kv-cache/index.md
   - Generative Models:
     - generative-models/index.md
     - Diffusion Foundations:
