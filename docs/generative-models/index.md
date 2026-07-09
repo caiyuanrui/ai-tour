@@ -8,7 +8,7 @@
 | Topic | Question | Status |
 |-------|----------|--------|
 | [Diffusion Foundations](diffusion-foundations/index.md) | What are the core ideas behind denoising diffusion models? | ✅ Completed — 4d, 12 papers, conf 0.82 |
-| [Score-Based Models](score-models/index.md) | How does score estimation define generation? | 🟢 Active — 1d, 3 papers, conf 0.40 |
+| [Score-Based Models](score-models/index.md) | How does score estimation define generation? | 🟢 Active — 2d, 6 papers, conf 0.60 |
 | Sampling | How do samplers trade quality, speed, and likelihood? | ⬜ |
 | Flow Matching | How does flow matching relate to diffusion and continuous normalizing flows? | ⬜ |
 | Consistency Models | How can generative models sample in very few steps? | ⬜ |

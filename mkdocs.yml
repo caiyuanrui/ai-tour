@@ -126,6 +126,7 @@ nav:
     - Score-Based Models:
       - generative-models/score-models/index.md
       - "Day 1 — Consistency Distillation": generative-models/score-models/2026-07-02-score-models.md
+      - "Day 2 — Score-Based SDE": generative-models/score-models/2026-07-09-score-models.md
   - Lab Reports:
     - lab-reports/index.md
     - Project Planning:
