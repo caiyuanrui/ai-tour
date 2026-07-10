@@ -92,6 +92,7 @@ nav:
     - Planning:
       - agents/planning/index.md
       - "Day 1 — Survey": agents/planning/2026-07-06-planning.md
+      - "Day 2 — LLM+P": agents/planning/2026-07-10-planning.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
