@@ -2,4 +2,4 @@
 
 Question: What failed, why, and what should change?
 
-This directory will contain postmortems and failure analyses from experiments and development sessions.
+This directory contains postmortem analyses of design assumptions, tool bugs, and project failures in the research lab.

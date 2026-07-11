@@ -9,14 +9,15 @@
 |-------|----------|--------|
 | | [Experiment Log](experiment-log/index.md) | What experiment was run and what happened? | ✅ Completed — 1d, 0 papers, conf 0.75 |
 | | [Implementation Notes](implementation-notes/index.md) | What engineering detail or system behavior was learned? | ✅ Completed — 1d, 0 papers, conf 0.65 |
-| | [Failure Analysis](failure-analysis/index.md) | What failed, why, and what should change? | 🟢 Active |
+| | [Failure Analysis](failure-analysis/index.md) | What failed, why, and what should change? | ✅ Completed — 1d, 0 papers, conf 0.75 |
 | | Replication Report | Can a known method be reproduced or partially reproduced? | ⬜ |
-| | [Project Planning](project-planning/index.md) | What project direction should be refined next? | ✅ Completed — 3d, 6 papers, conf 0.70 |
+| | [Project Planning](project-planning/index.md) | What project direction should be refined next? | 🟢 Active |
 
 ## Reports
 
 | Date | Topic | Title |
 |------|-------|-------|
+| | [2026-07-11](failure-analysis/2026-07-11-failure-analysis.md) | Failure Analysis | P3 Design Assumptions & Validation Gaps — Four Failure Patterns Identified |
 | | [2026-07-04](experiment-log/2026-07-04-experiment-log.md) | Experiment Log | Stateful Routing + Purification Benchmark: 87.9% compression, routing fix validated |
 | | [2026-06-27](implementation-notes/2026-06-27-implementation-notes.md) | Implementation Notes | Token-Budget-Controlled ReAct Agent Prototype (P3) |
 | | [2026-06-20](project-planning/2026-06-20-project-planning.md) | Project Planning | Token-Economic Validation — From Efficiency Thesis to Executable Plan |
