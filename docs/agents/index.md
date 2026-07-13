@@ -9,7 +9,7 @@
 |-------|----------|--------|
 | [Agent Architectures](architectures/index.md) | What are the recurring architectures behind useful LLM agents? | ✅ Completed — 5d, 15 papers, conf 0.85 |
 | [Tool Use](tool-use/index.md) | How do language models decide when and how to use external tools? | ✅ Completed — 5d, 15 papers, conf 0.82 |
-| [Planning](planning/index.md) | How do agents decompose, revise, and execute long-horizon tasks? | 🟢 Active — 2d, 6 papers, conf 0.50 |
+| [Planning](planning/index.md) | How do agents decompose, revise, and execute long-horizon tasks? | 🟢 Active — 3d, 9 papers, conf 0.62 |
 | Memory | What forms of memory help agents over long interactions? | ⬜ |
 | Reasoning | How do agents improve reasoning through search, reflection, verification? | ⬜ |
 | RL for Agents | How do RL-style training signals improve agent behavior? | ⬜ |
