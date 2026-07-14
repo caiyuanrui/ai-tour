@@ -106,6 +106,7 @@ nav:
     - Image-Text Reasoning:
       - multimodal/image-text-reasoning/index.md
       - "Day 1 — Comp. Vis. Reasoning Survey": multimodal/image-text-reasoning/2026-07-07-image-text-reasoning.md
+      - "Day 2 — ViperGPT": multimodal/image-text-reasoning/2026-07-14-image-text-reasoning.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:
