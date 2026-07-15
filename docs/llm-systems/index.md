@@ -8,7 +8,7 @@
 | Topic | Question | Status |
 |-------|----------|--------|
 | Inference Serving | How are LLM inference systems optimized for throughput and latency? | ✅ Completed — 5d, 15 papers, conf 0.86 |
-| KV Cache | How does KV cache shape long-context inference and memory use? | 🟢 Active — 0d, 0 papers, conf 0.00 |
+| KV Cache | How does KV cache shape long-context inference and memory use? | 🟢 Active — 1d, 3 papers, conf 0.35 |
 | Batching and Scheduling | How do serving systems schedule requests and tokens? | ⬜ |
 | Distributed Training | How do distributed strategies scale LLM training? | ⬜ |
 | Memory Optimization | How do systems reduce memory and bandwidth bottlenecks? | ⬜ |

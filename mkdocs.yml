@@ -118,6 +118,7 @@ nav:
       - "Day 5 — Dynamic SplitFuse": llm-systems/inference-serving/2026-07-08-inference-serving.md
     - KV Cache:
       - llm-systems/kv-cache/index.md
+      - "Day 1 — KIVI": llm-systems/kv-cache/2026-07-15-kv-cache.md
   - Generative Models:
     - generative-models/index.md
     - Diffusion Foundations:
