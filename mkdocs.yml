@@ -94,6 +94,7 @@ nav:
       - "Day 1 — Survey": agents/planning/2026-07-06-planning.md
       - "Day 2 — LLM+P": agents/planning/2026-07-10-planning.md
       - "Day 3 — Hierarchical Planning": agents/planning/2026-07-13-planning.md
+      - "Day 4 — HIPIF": agents/planning/2026-07-17-planning.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
