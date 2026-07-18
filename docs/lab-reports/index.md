@@ -11,12 +11,13 @@
 | | [Implementation Notes](implementation-notes/index.md) | What engineering detail or system behavior was learned? | ✅ Completed — 1d, 0 papers, conf 0.65 |
 | | [Failure Analysis](failure-analysis/index.md) | What failed, why, and what should change? | ✅ Completed — 1d, 0 papers, conf 0.75 |
 | | Replication Report | Can a known method be reproduced or partially reproduced? | ⬜ |
-| | [Project Planning](project-planning/index.md) | What project direction should be refined next? | 🟢 Active |
+| | [Project Planning](project-planning/index.md) | What project direction should be refined next? | 🟢 Active — 1d, 3 papers, conf 0.72 |
 
 ## Reports
 
 | Date | Topic | Title |
 |------|-------|-------|
+| | [2026-07-18](project-planning/2026-07-18-project-planning.md) | Project Planning | Revising P3 from Cycle 1 Failures — Budget-Aware Evaluation & Production Runtime Design |
 | | [2026-07-11](failure-analysis/2026-07-11-failure-analysis.md) | Failure Analysis | P3 Design Assumptions & Validation Gaps — Four Failure Patterns Identified |
 | | [2026-07-04](experiment-log/2026-07-04-experiment-log.md) | Experiment Log | Stateful Routing + Purification Benchmark: 87.9% compression, routing fix validated |
 | | [2026-06-27](implementation-notes/2026-06-27-implementation-notes.md) | Implementation Notes | Token-Budget-Controlled ReAct Agent Prototype (P3) |
