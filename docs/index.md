@@ -6,7 +6,7 @@
 
 | 课程 | 时间 | 描述 | 进度 |
 |------|------|------|------|
-| [Agents](agents/index.md) | 周一、周五 | LLM agents, reasoning, tools, planning, RL-for-agents | 🟢 Active — Planning (4d, 12 papers, conf 0.72) / ✅ Tool Use (5d, 15 papers, conf 0.82) / ✅ Architectures (5d, 15 papers, conf 0.85) |
+| [Agents](agents/index.md) | 周一、周五 | LLM agents, reasoning, tools, planning, RL-for-agents | 🟢 Active — Memory (0d, 0 papers, conf 0.00) / ✅ Planning (5d, 15 papers, conf 0.80) / ✅ Tool Use (5d, 15 papers, conf 0.82) / ✅ Architectures (5d, 15 papers, conf 0.85) |
 | [Multimodal, VLA & Robotics](multimodal/index.md) | 周二 | VLM, video, grounding, VLA, world models | 🟢 Active — Image-Text Reasoning (2d, 6 papers, conf 0.50) / ✅ VLM Pretraining (5d, 13 papers, conf 0.82) |
 | [LLM Systems](llm-systems/index.md) | 周三 | Inference, training, memory, distributed systems | 🟢 Active — KV Cache (1d, 3 papers, conf 0.35) / ✅ Inference Serving (5d, 15 papers, conf 0.86) |
 | [Generative Models](generative-models/index.md) | 周四 | Diffusion, score models, flow matching | 🟢 Active — Score-Based Models (3d, 9 papers, conf 0.72) / ✅ Diffusion Foundations (4d, 12 papers, conf 0.82) |
@@ -15,10 +15,10 @@
 
 ??? info "学习统计"
     - 课程数: 5 + 1 synthesis
-    - 论文阅读: 109 篇（36 主 + 73 相关）
+    - 论文阅读: 112 篇（37 主 + 75 相关）
     - 开始日期: 2026-06-01
-    - 已完成主题: 5（Architectures, Tool Use, VLM Pretraining, Diffusion Foundations, Inference Serving）
-    - 激活中主题: 4（Planning, Image-Text Reasoning, Score-Based Models, KV Cache）
+    - 已完成主题: 6（Architectures, Tool Use, Planning, VLM Pretraining, Diffusion Foundations, Inference Serving）
+    - 激活中主题: 4（Memory, Image-Text Reasoning, Score-Based Models, KV Cache）
     - 已完成 Lab 主题: 3（Experiment Log, Implementation Notes, Failure Analysis）
 
 !!! tip "探索"
