@@ -124,6 +124,7 @@ nav:
     - KV Cache:
       - llm-systems/kv-cache/index.md
       - "Day 1 — KIVI": llm-systems/kv-cache/2026-07-15-kv-cache.md
+      - "Day 2 — Eviction (Make Each Token Count + StreamingLLM)": llm-systems/kv-cache/2026-07-22-kv-cache.md
   - Generative Models:
     - generative-models/index.md
     - Diffusion Foundations:
