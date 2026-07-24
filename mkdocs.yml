@@ -98,6 +98,7 @@ nav:
       - "Day 5 — Two Planning Abilities": agents/planning/2026-07-20-planning.md
     - Memory:
       - agents/memory/index.md
+      - "Day 1 — Agent-Native Memory": agents/memory/2026-07-24-memory.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
