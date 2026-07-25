@@ -148,6 +148,7 @@ nav:
       - "Day 2 — CogRouter": lab-reports/project-planning/2026-06-13-project-planning.md
       - "Day 3 — Token Economics": lab-reports/project-planning/2026-06-20-project-planning.md
       - "Day 4 — Budget-Aware Eval": lab-reports/project-planning/2026-07-18-project-planning.md
+      - "Day 5 — P3v2 Architecture Design": lab-reports/project-planning/2026-07-25-project-planning.md
     - Implementation Notes:
       - lab-reports/implementation-notes/index.md
       - "Day 1 — Token Budget Agent": lab-reports/implementation-notes/2026-06-27-implementation-notes.md
