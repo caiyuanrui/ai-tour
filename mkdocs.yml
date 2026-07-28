@@ -72,7 +72,6 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Timeline: timeline.md
   - Agents:
     - agents/index.md
     - Agent Architectures:
@@ -115,6 +114,9 @@ nav:
       - "Day 2 — ViperGPT": multimodal/image-text-reasoning/2026-07-14-image-text-reasoning.md
       - "Day 3 — MMMU": multimodal/image-text-reasoning/2026-07-21-image-text-reasoning.md
       - "Day 4 — Zebra-CoT": multimodal/image-text-reasoning/2026-07-28-image-text-reasoning.md
+      - "Day 5 — Topic Capstone": multimodal/image-text-reasoning/2026-07-28-image-text-reasoning-capstone.md
+    - Video Understanding:
+      - multimodal/video-understanding/index.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:
