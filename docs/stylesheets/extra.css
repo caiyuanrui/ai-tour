@@ -671,7 +671,8 @@ body {
 }
 
 /* Make entire status block clickable */
-.ai-status-block .ai-sb-header h3 a::after {
+.ai-status-block .ai-sb-header h3 a::after,
+.ai-status-block .ai-sb-header a::after {
   content: '';
   position: absolute;
   inset: 0;
@@ -700,6 +701,19 @@ body {
 .ai-status-block .ai-sb-header h3 {
   margin: 0 !important;
   font-size: 0.95rem !important;
+}
+
+/* When sb-header contains a rendered markdown h3 link */
+.ai-status-block .ai-sb-header > h3 {
+  margin: 0 !important;
+  font-size: 0.95rem !important;
+}
+
+/* When sb-header is just plain text (pending topics) */
+.ai-status-block .ai-sb-header {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ai-text-primary);
 }
 
 .ai-status-block .ai-sb-meta {

@@ -1,4 +1,5 @@
-<div class="ai-hero">
+<div class="ai-hero" markdown="1">
+
 # AI Tour
 
 <div class="ai-subtitle">构建 AI 研究地图 · 每周跨领域探索 · 论文 + 笔记 + GitHub Pages</div>
@@ -8,129 +9,106 @@
 <span>📚 136 篇论文（45 主 + 91 相关）</span>
 <span>✅ 6 已完成主题 · 4 激活中主题</span>
 </div>
+
 </div>
 
 <div class="ai-divider"></div>
 
-<div class="ai-course-grid">
+<div class="ai-course-grid" markdown="1">
 
-<div class="ai-course-card">
+<div class="ai-course-card" markdown="1">
+<div class="ai-card-header" markdown="1">
 
-<div class="ai-card-header">
 ### [🤖 Agents](agents/index.md)
 <span class="ai-card-day">周一、周五</span>
-</div>
 
-<div class="ai-card-desc">
-LLM agents, reasoning, tools, planning, memory, evaluation, multi-agent systems
 </div>
-
+<div class="ai-card-desc">LLM agents, reasoning, tools, planning, memory, evaluation, multi-agent systems</div>
 <div class="ai-card-topics">
 <span class="ai-topic-badge active">🟢 Memory (2d, conf 0.52)</span>
 <span class="ai-topic-badge completed">✅ Planning (5d, conf 0.80)</span>
 <span class="ai-topic-badge completed">✅ Tool Use (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ Architectures (5d, conf 0.85)</span>
 </div>
-
 </div>
 
-<div class="ai-course-card">
+<div class="ai-course-card" markdown="1">
+<div class="ai-card-header" markdown="1">
 
-<div class="ai-card-header">
 ### [👁️ Multimodal & VLA](multimodal/index.md)
 <span class="ai-card-day">周二</span>
-</div>
 
-<div class="ai-card-desc">
-VLM pretraining, image-text reasoning, video understanding, grounding, VLA, world models
 </div>
-
+<div class="ai-card-desc">VLM pretraining, image-text reasoning, video understanding, grounding, VLA, world models</div>
 <div class="ai-card-topics">
 <span class="ai-topic-badge active">🟢 Video Understanding</span>
 <span class="ai-topic-badge completed">✅ Image-Text Reasoning (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ VLM Pretraining (5d, conf 0.82)</span>
 </div>
-
 </div>
 
-<div class="ai-course-card">
+<div class="ai-course-card" markdown="1">
+<div class="ai-card-header" markdown="1">
 
-<div class="ai-card-header">
 ### [⚡ LLM Systems](llm-systems/index.md)
 <span class="ai-card-day">周三</span>
-</div>
 
-<div class="ai-card-desc">
-Inference serving, KV cache, batching, distributed training, memory optimization, agent runtime
 </div>
-
+<div class="ai-card-desc">Inference serving, KV cache, batching, distributed training, memory optimization, agent runtime</div>
 <div class="ai-card-topics">
 <span class="ai-topic-badge active">🟢 KV Cache (2d, conf 0.50)</span>
 <span class="ai-topic-badge completed">✅ Inference Serving (5d, conf 0.86)</span>
 </div>
-
 </div>
 
-<div class="ai-course-card">
+<div class="ai-course-card" markdown="1">
+<div class="ai-card-header" markdown="1">
 
-<div class="ai-card-header">
 ### [🌀 Generative Models](generative-models/index.md)
 <span class="ai-card-day">周四</span>
-</div>
 
-<div class="ai-card-desc">
-Diffusion foundations, score-based models, flow matching, consistency models, diffusion policy
 </div>
-
+<div class="ai-card-desc">Diffusion foundations, score-based models, flow matching, consistency models, diffusion policy</div>
 <div class="ai-card-topics">
 <span class="ai-topic-badge active">🟢 Score-Based Models (4d, conf 0.78)</span>
 <span class="ai-topic-badge completed">✅ Diffusion Foundations (4d, conf 0.82)</span>
 </div>
-
 </div>
 
-<div class="ai-course-card">
+<div class="ai-course-card" markdown="1">
+<div class="ai-card-header" markdown="1">
 
-<div class="ai-card-header">
 ### [🔬 Research Lab](lab-reports/index.md)
 <span class="ai-card-day">周六</span>
-</div>
 
-<div class="ai-card-desc">
-Experiments, implementation notes, failure analysis, replication, project planning
 </div>
-
+<div class="ai-card-desc">Experiments, implementation notes, failure analysis, replication, project planning</div>
 <div class="ai-card-topics">
 <span class="ai-topic-badge active">🟢 Implementation Notes</span>
 <span class="ai-topic-badge completed">✅ Project Planning</span>
 <span class="ai-topic-badge completed">✅ Failure Analysis</span>
 <span class="ai-topic-badge completed">✅ Experiment Log</span>
 </div>
-
 </div>
 
-<div class="ai-course-card">
+<div class="ai-course-card" markdown="1">
+<div class="ai-card-header" markdown="1">
 
-<div class="ai-card-header">
 ### [📊 Weekly Synthesis](synthesis/index.md)
 <span class="ai-card-day">周日</span>
-</div>
 
-<div class="ai-card-desc">
-Cross-course synthesis — connections, contradictions, thesis directions
 </div>
-
+<div class="ai-card-desc">Cross-course synthesis — connections, contradictions, thesis directions</div>
 <div class="ai-card-topics">
 <span class="ai-topic-badge completed">✅ Week 1–8</span>
 </div>
-
 </div>
 
 </div>
 
 <div class="ai-divider"></div>
 
-<div class="ai-stats">
+<div class="ai-stats" markdown="1">
 
 <div class="ai-stat-item">
 <div class="ai-stat-value">5+1</div>
