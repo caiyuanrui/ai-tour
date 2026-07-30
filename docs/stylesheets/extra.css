@@ -48,6 +48,118 @@
   --md-footer-bg-color--dark: var(--ai-bg-deepest);
 }
 
+/* ── Light Mode ──────────────────────────── */
+[data-md-color-scheme="default"] {
+  --md-hue: 210;
+  --md-default-bg-color: #f8fafc;
+  --md-default-fg-color: #1e293b;
+  --md-default-fg-color--light: #475569;
+  --md-default-fg-color--lighter: #94a3b8;
+  --md-typeset-color: #1e293b;
+  --md-typeset-a-color: #0ea5e9;
+  --md-code-bg-color: #f1f5f9;
+  --md-code-fg-color: #1e293b;
+  --md-admonition-bg-color: #f8fafc;
+  --md-admonition-fg-color: #1e293b;
+  --md-footer-bg-color: #f1f5f9;
+  --md-footer-bg-color--dark: #e2e8f0;
+
+  /* Override custom tokens for light mode */
+  --ai-bg-deep: #f8fafc;
+  --ai-bg-surface: #f1f5f9;
+  --ai-bg-elevated: #e2e8f0;
+  --ai-bg-card: #ffffff;
+  --ai-bg-card-hover: #f8fafc;
+  --ai-border: rgba(14, 165, 233, 0.1);
+  --ai-border-active: rgba(14, 165, 233, 0.25);
+  --ai-text-primary: #0f172a;
+  --ai-text-secondary: #475569;
+  --ai-text-muted: #94a3b8;
+  --ai-glow: 0 0 20px rgba(14, 165, 233, 0.1);
+}
+
+[data-md-color-scheme="default"] .md-header {
+  background: rgba(248, 250, 252, 0.85) !important;
+  border-bottom: 1px solid var(--ai-border);
+}
+
+[data-md-color-scheme="default"] .md-tabs {
+  background: rgba(248, 250, 252, 0.8) !important;
+  border-bottom: 1px solid var(--ai-border);
+}
+
+[data-md-color-scheme="default"] .md-typeset h1 {
+  --ai-gradient: linear-gradient(135deg, #0284c7 0%, #6366f1 50%, #8b5cf6 100%);
+  background: var(--ai-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+[data-md-color-scheme="default"] .md-typeset h2 {
+  color: var(--ai-text-primary);
+}
+
+[data-md-color-scheme="default"] .md-typeset h3 {
+  color: #334155;
+}
+
+[data-md-color-scheme="default"] .md-typeset p {
+  color: var(--ai-text-secondary);
+}
+
+[data-md-color-scheme="default"] .md-nav__link:hover {
+  background: rgba(14, 165, 233, 0.05);
+}
+
+[data-md-color-scheme="default"] .md-nav__link--active {
+  background: rgba(14, 165, 233, 0.08);
+}
+
+[data-md-color-scheme="default"] .md-typeset code {
+  border: 1px solid rgba(14, 165, 233, 0.1);
+}
+
+[data-md-color-scheme="default"] .md-typeset pre > code {
+  border: 1px solid rgba(14, 165, 233, 0.1);
+}
+
+[data-md-color-scheme="default"] .md-typeset table thead {
+  background: var(--ai-bg-elevated);
+}
+
+[data-md-color-scheme="default"] .md-typeset table th {
+  color: var(--ai-text-primary);
+}
+
+[data-md-color-scheme="default"] .md-typeset table td {
+  border-bottom: 1px solid rgba(14, 165, 233, 0.06);
+}
+
+[data-md-color-scheme="default"] .md-typeset table tr:hover td {
+  background: rgba(14, 165, 233, 0.03);
+}
+
+[data-md-color-scheme="default"] .ai-stat-value {
+  --ai-gradient: linear-gradient(135deg, #0284c7 0%, #6366f1 50%, #8b5cf6 100%);
+  background: var(--ai-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+[data-md-color-scheme="default"] ::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+[data-md-color-scheme="default"] ::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+}
+
+[data-md-color-scheme="default"] ::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
 /* ── Typography ───────────────────────────── */
 body {
   -webkit-font-smoothing: antialiased;
@@ -386,6 +498,22 @@ body {
   transition: var(--ai-transition);
   position: relative;
   overflow: hidden;
+  cursor: pointer;
+}
+
+/* Make the entire card clickable — stretch the link to cover it */
+.ai-course-card h3 a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* Keep interactive elements above the link overlay */
+.ai-course-card .ai-card-day,
+.ai-course-card .ai-card-topics {
+  position: relative;
+  z-index: 2;
 }
 
 .ai-course-card::before {
@@ -524,6 +652,24 @@ body {
   padding: 1.2rem 1.5rem;
   margin: 1rem 0;
   transition: var(--ai-transition);
+  position: relative;
+  cursor: pointer;
+}
+
+/* Make entire status block clickable */
+.ai-status-block .ai-sb-header h3 a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* Keep interactive elements above overlay */
+.ai-status-block .ai-sb-meta,
+.ai-status-block .ai-progress-bar,
+.ai-status-block > p {
+  position: relative;
+  z-index: 2;
 }
 
 .ai-status-block:hover {
