@@ -240,6 +240,20 @@ body {
 
 .md-tabs__item {
   padding: 0.6rem 0;
+  position: relative;
+}
+
+/* Tab separators — subtle vertical line between items */
+.md-tabs__item + .md-tabs__item::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1px;
+  height: 18px;
+  background: var(--ai-border);
+  opacity: 0.6;
 }
 
 /* ── Navigation ───────────────────────────── */
