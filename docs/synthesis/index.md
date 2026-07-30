@@ -1,15 +1,71 @@
-# Weekly Synthesis
+# 📊 Weekly Synthesis
 
-**时间：** 周日  
-**描述：** 跨领域总结与研究方向提炼
+**周日** · 跨领域总结与研究方向提炼
 
-| Week | Date | Summary |
-|------|------|---------|
-| [Week 1](weekly/2026-06-07-weekly-synthesis.md) | 2026-06-07 | Agents / Multimodal / LLM Systems / Generative Models — first pass |
-| [Week 2](weekly/2026-06-14-weekly-synthesis.md) | 2026-06-14 | Search-based reasoning / Code-as-Action / Inference Serving / Score-based unification / Adaptive Cognitive Depth validated |
-| [Week 3](weekly/2026-06-21-weekly-synthesis.md) | 2026-06-21 | Architecture capstone, prefill-decode disaggregation, EDM design space, SigLIP three-axis optimization, Tool Use started, Priority #3 validated by HPCA |
-| [Week 4](weekly/2026-06-28-weekly-synthesis.md) | 2026-06-28 | Scale-up week — AnyTool/MM1/Speculative Decoding/LDM/xLAM/P3 prototype; data bottleneck across all courses; representation engineering; P3 went from blueprint to runnable prototype |
-| [Week 5](weekly/2026-07-05-weekly-synthesis.md) | 2026-07-05 | Capstone week — Tool Use completed, VLM Pretraining completed, ChainCaps tool safety dimension, Sarathi-Serve chunked prefill, Consistency Models, P3 prototype validated (87.9% compression, routing fixed) |
-| [Week 6](weekly/2026-07-12-weekly-synthesis.md) | 2026-07-12 | Planning paradigm (pure vs hybrid), Inference Serving completed (Dynamic SplitFuse), Image-Text Reasoning survey, Score-Based SDE unification, P3 failure postmortem, decoupling as cross-cutting theme |
-| [Week 7](weekly/2026-07-19-weekly-synthesis.md) | 2026-07-19 | Hierarchical design as meta-pattern, information bottleneck across courses, Planning deep dive, KV Cache (KIVI), Score-Based computational theory closed, P3 Cycle 2 revision |
-| [Week 8](weekly/2026-07-26-weekly-synthesis.md) | 2026-07-26 | Planning completed (two planning competencies), Image-Text Reasoning (MMMU + modality sabotage), KV Cache eviction, Score-Based Models manifold theory, Memory started, P3v2 architecture design (TALE) |
+<div class="ai-divider"></div>
+
+## 每周回顾
+
+<div class="ai-status-block">
+
+<div class="ai-sb-header"> <span>📅</span> <h3>[Week 1 — AI 研究地图奠基](weekly/2026-06-07-weekly-synthesis.md)</h3> </div>
+<div class="ai-sb-meta">2026-06-07</div>
+Agents / Multimodal / LLM Systems / Generative Models — first pass
+
+</div>
+
+<div class="ai-status-block">
+
+<div class="ai-sb-header"> <span>📅</span> <h3>[Week 2 — 收敛与发现](weekly/2026-06-14-weekly-synthesis.md)</h3> </div>
+<div class="ai-sb-meta">2026-06-14</div>
+Search-based reasoning / Code-as-Action / Inference Serving / Score-based unification / Adaptive Cognitive Depth validated
+
+</div>
+
+<div class="ai-status-block">
+
+<div class="ai-sb-header"> <span>📅</span> <h3>[Week 3 — 深化与交叉](weekly/2026-06-21-weekly-synthesis.md)</h3> </div>
+<div class="ai-sb-meta">2026-06-21</div>
+Architecture capstone, prefill-decode disaggregation, EDM design space, SigLIP three-axis optimization
+
+</div>
+
+<div class="ai-status-block">
+
+<div class="ai-sb-header"> <span>📅</span> <h3>[Week 4 — 加速周](weekly/2026-06-28-weekly-synthesis.md)</h3> </div>
+<div class="ai-sb-meta">2026-06-28</div>
+Scale-up week — AnyTool/MM1/Speculative Decoding/LDM/xLAM/P3 prototype; data bottleneck across all courses
+
+</div>
+
+<div class="ai-status-block">
+
+<div class="ai-sb-header"> <span>📅</span> <h3>[Week 5 — Capstone 周](weekly/2026-07-05-weekly-synthesis.md)</h3> </div>
+<div class="ai-sb-meta">2026-07-05</div>
+Tool Use completed, VLM Pretraining completed, ChainCaps, Sarathi-Serve, Consistency Models, P3 prototype validated
+
+</div>
+
+<div class="ai-status-block">
+
+<div class="ai-sb-header"> <span>📅</span> <h3>[Week 6 — 范式碰撞](weekly/2026-07-12-weekly-synthesis.md)</h3> </div>
+<div class="ai-sb-meta">2026-07-12</div>
+Planning paradigm (pure vs hybrid), Inference Serving completed, Image-Text Reasoning survey, Score-Based SDE unification, P3 failure postmortem
+
+</div>
+
+<div class="ai-status-block">
+
+<div class="ai-sb-header"> <span>📅</span> <h3>[Week 7 — 层级设计模式](weekly/2026-07-19-weekly-synthesis.md)</h3> </div>
+<div class="ai-sb-meta">2026-07-19</div>
+Hierarchical design as meta-pattern, Planning deep dive, KV Cache, Score-Based computational theory, P3 Cycle 2 revision
+
+</div>
+
+<div class="ai-status-block">
+
+<div class="ai-sb-header"> <span>📅</span> <h3>[Week 8 — 深入与反思](weekly/2026-07-26-weekly-synthesis.md)</h3> </div>
+<div class="ai-sb-meta">2026-07-26</div>
+Planning completed, Image-Text Reasoning (MMMU + modality sabotage), KV Cache eviction, Score-Based Models manifold theory, Memory started, P3v2 TALE architecture
+
+</div>

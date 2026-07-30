@@ -1,25 +1,168 @@
+<div class="ai-hero">
 # AI Tour
 
-构建 AI 研究地图，每周跨领域探索。
+<div class="ai-subtitle">构建 AI 研究地图 · 每周跨领域探索 · 论文 + 笔记 + GitHub Pages</div>
 
-## 课程
+<div class="ai-meta-line">
+<span>📅 开始于 2026-06-01</span>
+<span>📚 136 篇论文（45 主 + 91 相关）</span>
+<span>✅ 6 已完成主题 · 4 激活中主题</span>
+</div>
+</div>
 
-| 课程 | 时间 | 描述 | 进度 |
-|------|------|------|------|
-| [Agents](agents/index.md) | 周一、周五 | LLM agents, reasoning, tools, planning, RL-for-agents | 🟢 Active — Memory (2d, 6 papers, conf 0.52) / ✅ Planning (5d, 15 papers, conf 0.80) / ✅ Tool Use (5d, 15 papers, conf 0.82) / ✅ Architectures (5d, 15 papers, conf 0.85) |
-| [Multimodal, VLA & Robotics](multimodal/index.md) | 周二 | VLM, video, grounding, VLA, world models | 🟢 Active — Image-Text Reasoning (4d, 12 papers, conf 0.72) / ✅ VLM Pretraining (5d, 13 papers, conf 0.82) |
-| [LLM Systems](llm-systems/index.md) | 周三 | Inference, training, memory, distributed systems | 🟢 Active — KV Cache (2d, 6 papers, conf 0.50) / ✅ Inference Serving (5d, 15 papers, conf 0.86) |
-| [Generative Models](generative-models/index.md) | 周四 | Diffusion, score models, flow matching | 🟢 Active — Score-Based Models (4d, 12 papers, conf 0.78) / ✅ Diffusion Foundations (4d, 12 papers, conf 0.82) |
-| [Research Lab](lab-reports/index.md) | 周六 | Experiments, implementations, failures | 🟢 Active — Implementation Notes / ✅ Project Planning (2d, 6 papers, conf 0.78) / ✅ Failure Analysis (1d, conf 0.75) / ✅ Experiment Log (87.9% compression, conf 0.75) |
-| [Weekly Synthesis](synthesis/index.md) | 周日 | 跨领域总结 | ✅ Week 1–8 done |
+<div class="ai-divider"></div>
 
-??? info "学习统计"
-    - 课程数: 5 + 1 synthesis
-    - 论文阅读: 136 篇（45 主 + 91 相关）
-    - 开始日期: 2026-06-01
-    - 已完成主题: 6（Architectures, Tool Use, Planning, VLM Pretraining, Diffusion Foundations, Inference Serving）
-    - 激活中主题: 4（Memory, Image-Text Reasoning, Score-Based Models, KV Cache）
-    - 已完成 Lab 主题: 3（Experiment Log, Implementation Notes, Failure Analysis）
+<div class="ai-course-grid">
+
+<div class="ai-course-card">
+
+<div class="ai-card-header">
+### [🤖 Agents](agents/index.md)
+<span class="ai-card-day">周一、周五</span>
+</div>
+
+<div class="ai-card-desc">
+LLM agents, reasoning, tools, planning, memory, evaluation, multi-agent systems
+</div>
+
+<div class="ai-card-topics">
+<span class="ai-topic-badge active">🟢 Memory (2d, conf 0.52)</span>
+<span class="ai-topic-badge completed">✅ Planning (5d, conf 0.80)</span>
+<span class="ai-topic-badge completed">✅ Tool Use (5d, conf 0.82)</span>
+<span class="ai-topic-badge completed">✅ Architectures (5d, conf 0.85)</span>
+</div>
+
+</div>
+
+<div class="ai-course-card">
+
+<div class="ai-card-header">
+### [👁️ Multimodal & VLA](multimodal/index.md)
+<span class="ai-card-day">周二</span>
+</div>
+
+<div class="ai-card-desc">
+VLM pretraining, image-text reasoning, video understanding, grounding, VLA, world models
+</div>
+
+<div class="ai-card-topics">
+<span class="ai-topic-badge active">🟢 Video Understanding</span>
+<span class="ai-topic-badge completed">✅ Image-Text Reasoning (5d, conf 0.82)</span>
+<span class="ai-topic-badge completed">✅ VLM Pretraining (5d, conf 0.82)</span>
+</div>
+
+</div>
+
+<div class="ai-course-card">
+
+<div class="ai-card-header">
+### [⚡ LLM Systems](llm-systems/index.md)
+<span class="ai-card-day">周三</span>
+</div>
+
+<div class="ai-card-desc">
+Inference serving, KV cache, batching, distributed training, memory optimization, agent runtime
+</div>
+
+<div class="ai-card-topics">
+<span class="ai-topic-badge active">🟢 KV Cache (2d, conf 0.50)</span>
+<span class="ai-topic-badge completed">✅ Inference Serving (5d, conf 0.86)</span>
+</div>
+
+</div>
+
+<div class="ai-course-card">
+
+<div class="ai-card-header">
+### [🌀 Generative Models](generative-models/index.md)
+<span class="ai-card-day">周四</span>
+</div>
+
+<div class="ai-card-desc">
+Diffusion foundations, score-based models, flow matching, consistency models, diffusion policy
+</div>
+
+<div class="ai-card-topics">
+<span class="ai-topic-badge active">🟢 Score-Based Models (4d, conf 0.78)</span>
+<span class="ai-topic-badge completed">✅ Diffusion Foundations (4d, conf 0.82)</span>
+</div>
+
+</div>
+
+<div class="ai-course-card">
+
+<div class="ai-card-header">
+### [🔬 Research Lab](lab-reports/index.md)
+<span class="ai-card-day">周六</span>
+</div>
+
+<div class="ai-card-desc">
+Experiments, implementation notes, failure analysis, replication, project planning
+</div>
+
+<div class="ai-card-topics">
+<span class="ai-topic-badge active">🟢 Implementation Notes</span>
+<span class="ai-topic-badge completed">✅ Project Planning</span>
+<span class="ai-topic-badge completed">✅ Failure Analysis</span>
+<span class="ai-topic-badge completed">✅ Experiment Log</span>
+</div>
+
+</div>
+
+<div class="ai-course-card">
+
+<div class="ai-card-header">
+### [📊 Weekly Synthesis](synthesis/index.md)
+<span class="ai-card-day">周日</span>
+</div>
+
+<div class="ai-card-desc">
+Cross-course synthesis — connections, contradictions, thesis directions
+</div>
+
+<div class="ai-card-topics">
+<span class="ai-topic-badge completed">✅ Week 1–8</span>
+</div>
+
+</div>
+
+</div>
+
+<div class="ai-divider"></div>
+
+<div class="ai-stats">
+
+<div class="ai-stat-item">
+<div class="ai-stat-value">5+1</div>
+<div class="ai-stat-label">课程</div>
+</div>
+
+<div class="ai-stat-item">
+<div class="ai-stat-value">136</div>
+<div class="ai-stat-label">论文阅读</div>
+</div>
+
+<div class="ai-stat-item">
+<div class="ai-stat-value">10</div>
+<div class="ai-stat-label">已完成主题</div>
+</div>
+
+<div class="ai-stat-item">
+<div class="ai-stat-value">8</div>
+<div class="ai-stat-label">更新周期</div>
+</div>
+
+</div>
+
+<div class="ai-divider"></div>
 
 !!! tip "探索"
-    使用顶部的导航栏浏览各课程。
+    使用顶部的导航栏浏览各课程。所有笔记每日自动更新，每日 08:00 (UTC+8) 执行。
+
+??? info "学习统计详情"
+    - 课程数: 5 主课程 + 1 synthesis
+    - 论文阅读: 136 篇（45 主论文 + 91 相关）
+    - 开始日期: 2026-06-01
+    - 已完成主题: Architectures, Tool Use, Planning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Inference Serving
+    - 激活中主题: Memory, Video Understanding, Score-Based Models, KV Cache
+    - 已完成 Lab 主题: Experiment Log, Implementation Notes, Failure Analysis, Project Planning
