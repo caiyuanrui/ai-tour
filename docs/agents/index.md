@@ -28,13 +28,13 @@ How do agents decompose, revise, and execute long-horizon tasks?
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">🟢 [Memory](memory/index.md)</div>
-<div class="ai-sb-meta">2d · 6 papers · conf 0.52</div>
+<div class="ai-sb-meta">3d · 9 papers · conf 0.65</div>
 What forms of memory help agents over long interactions?
 
 <div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 52%"></div></div>
-<span class="ai-progress-label">52%</span>
-</div>
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 65%"></div></div>
+<span class="ai-progress-label">65%</span>
+</div></div>
 </div>
 
 <div class="ai-status-block" markdown="1">

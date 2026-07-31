@@ -1,5 +1,13 @@
 # Memory
 
-Question: What forms of memory help agents over long interactions?
+Question: **What forms of memory help agents over long interactions?**
 
-This directory contains daily research-map notes for this topic.
+🟢 **Active** — Started 2026-07-24
+
+## Notes
+
+| Date | Title | Stage |
+|------|-------|-------|
+| 2026-07-24 | [Agent-Native Memory Survey](2026-07-24-memory.md) | Day 1 — Survey / Landscape |
+| 2026-07-27 | [MemGPT](2026-07-27-memory.md) | Day 2 — Concrete System |
+| 2026-07-31 | [Graph & Dynamic Memory](2026-07-31-memory.md) | Day 3 — Dynamic Memory Paradigms |
