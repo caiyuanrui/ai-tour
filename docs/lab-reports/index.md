@@ -9,14 +9,14 @@
 <div class="ai-divider"></div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header" markdown="1">✅ [Experiment Log](experiment-log/index.md)</div>
-<div class="ai-sb-meta">1d · conf 0.75</div>
+<div class="ai-sb-header" markdown="1">🟢 [Experiment Log](experiment-log/index.md)</div>
+<div class="ai-sb-meta">Active — Cycle 3 · starting 2026-08-01</div>
 What experiment was run and what happened?
 </div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header" markdown="1">🟢 [Implementation Notes](implementation-notes/index.md)</div>
-<div class="ai-sb-meta">Active</div>
+<div class="ai-sb-header" markdown="1">✅ [Implementation Notes](implementation-notes/index.md)</div>
+<div class="ai-sb-meta">1d · conf 0.55</div>
 What engineering detail or system behavior was learned?
 </div>
 
@@ -41,6 +41,11 @@ What project direction should be refined next?
 <div class="ai-divider"></div>
 
 ## Reports
+
+<div class="ai-status-block" markdown="1">
+<div class="ai-sb-header" markdown="1">📝 [P3v2 SDB-Contract Budget Enforcement — Layer 2 Runtime Built & Tested](implementation-notes/2026-08-01-implementation-notes.md)</div>
+<div class="ai-sb-meta">2026-08-01 · Implementation Notes</div>
+</div>
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">📝 [P3v2 Architecture Design — Token-Budget Reasoning, Production Overruns & RL Efficiency](project-planning/2026-07-25-project-planning.md)</div>

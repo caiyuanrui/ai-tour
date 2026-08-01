@@ -84,10 +84,10 @@
 </div>
 <div class="ai-card-desc">Experiments, implementation notes, failure analysis, replication, project planning</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Implementation Notes</span>
+<span class="ai-topic-badge active">🟢 Experiment Log (Cycle 3)</span>
+<span class="ai-topic-badge completed">✅ Implementation Notes (1d, conf 0.55)</span>
 <span class="ai-topic-badge completed">✅ Project Planning</span>
 <span class="ai-topic-badge completed">✅ Failure Analysis</span>
-<span class="ai-topic-badge completed">✅ Experiment Log</span>
 </div>
 </div>
 
@@ -143,4 +143,5 @@
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Inference Serving
     - 激活中主题: Memory, Video Understanding, Score-Based Models, KV Cache
-    - 已完成 Lab 主题: Experiment Log, Implementation Notes, Failure Analysis, Project Planning
+    - 已完成 Lab 主题: Implementation Notes, Experiment Log, Failure Analysis, Project Planning
+    - 激活中 Lab 主题: Experiment Log (Cycle 3, 从 2026-08-01 起)
