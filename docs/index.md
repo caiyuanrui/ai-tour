@@ -79,16 +79,14 @@
 <div class="ai-course-card" markdown="1">
 <div class="ai-card-header" markdown="1">
 
-### [🔬 Research Lab](lab-reports/index.md)
+### [📰 AI Company Blogs](ai-blogs/index.md)
 <span class="ai-card-day">周六</span>
 
 </div>
-<div class="ai-card-desc">Experiments, implementation notes, failure analysis, replication, project planning</div>
+<div class="ai-card-desc">阅读并总结前沿 AI 公司官方博客 — OpenAI / Anthropic / DeepMind / Google Research / Meta AI</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Experiment Log (Cycle 3)</span>
-<span class="ai-topic-badge completed">✅ Implementation Notes (1d, conf 0.55)</span>
-<span class="ai-topic-badge completed">✅ Project Planning</span>
-<span class="ai-topic-badge completed">✅ Failure Analysis</span>
+<span class="ai-topic-badge active">🟢 OpenAI Blog</span>
+<span class="ai-topic-badge completed">✅ 历史笔记归档</span>
 </div>
 </div>
 

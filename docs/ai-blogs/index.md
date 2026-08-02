@@ -1,6 +1,6 @@
 <div class="ai-hero" markdown="1">
 
-# 🔬 Research Lab
+# 📰 AI Company Blogs
 
 <div class="ai-subtitle">**周六** · 阅读并总结前沿 AI 公司的官方博客（OpenAI / Anthropic / DeepMind / Google Research / Meta AI）</div>
 
