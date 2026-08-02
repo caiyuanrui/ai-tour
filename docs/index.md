@@ -6,8 +6,8 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 136 篇论文（45 主 + 91 相关）</span>
-<span>✅ 6 已完成主题 · 4 激活中主题</span>
+<span>📚 151 篇论文（50 主 + 101 相关）</span>
+<span>✅ 11 已完成主题 · 5 激活中主题</span>
 </div>
 
 </div>
@@ -25,7 +25,7 @@
 </div>
 <div class="ai-card-desc">LLM agents, reasoning, tools, planning, memory, evaluation, multi-agent systems</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Memory (2d, conf 0.52)</span>
+<span class="ai-topic-badge active">🟢 Memory (3d, conf 0.65)</span>
 <span class="ai-topic-badge completed">✅ Planning (5d, conf 0.80)</span>
 <span class="ai-topic-badge completed">✅ Tool Use (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ Architectures (5d, conf 0.85)</span>
@@ -56,7 +56,7 @@
 </div>
 <div class="ai-card-desc">Inference serving, KV cache, batching, distributed training, memory optimization, agent runtime</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 KV Cache (2d, conf 0.50)</span>
+<span class="ai-topic-badge active">🟢 KV Cache (3d, conf 0.62)</span>
 <span class="ai-topic-badge completed">✅ Inference Serving (5d, conf 0.86)</span>
 </div>
 </div>
@@ -70,7 +70,8 @@
 </div>
 <div class="ai-card-desc">Diffusion foundations, score-based models, flow matching, consistency models, diffusion policy</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Score-Based Models (4d, conf 0.78)</span>
+<span class="ai-topic-badge active">🟢 Sampling</span>
+<span class="ai-topic-badge completed">✅ Score-Based Models (5d, conf 0.85)</span>
 <span class="ai-topic-badge completed">✅ Diffusion Foundations (4d, conf 0.82)</span>
 </div>
 </div>
@@ -100,7 +101,7 @@
 </div>
 <div class="ai-card-desc">Cross-course synthesis — connections, contradictions, thesis directions</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge completed">✅ Week 1–8</span>
+<span class="ai-topic-badge completed">✅ Week 1–9</span>
 </div>
 </div>
 
@@ -116,17 +117,17 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">136</div>
+<div class="ai-stat-value">151</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">10</div>
+<div class="ai-stat-value">11</div>
 <div class="ai-stat-label">已完成主题</div>
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">8</div>
+<div class="ai-stat-value">9</div>
 <div class="ai-stat-label">更新周期</div>
 </div>
 
@@ -139,9 +140,9 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 136 篇（45 主论文 + 91 相关）
+    - 论文阅读: 151 篇（50 主论文 + 101 相关）
     - 开始日期: 2026-06-01
-    - 已完成主题: Architectures, Tool Use, Planning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Inference Serving
-    - 激活中主题: Memory, Video Understanding, Score-Based Models, KV Cache
-    - 已完成 Lab 主题: Implementation Notes, Experiment Log, Failure Analysis, Project Planning
+    - 已完成主题: Architectures, Tool Use, Planning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving
+    - 激活中主题: Memory, Video Understanding, KV Cache, Sampling
+    - 已完成 Lab 主题: Implementation Notes, Failure Analysis, Project Planning
     - 激活中 Lab 主题: Experiment Log (Cycle 3, 从 2026-08-01 起)

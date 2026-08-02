@@ -55,3 +55,9 @@ Hierarchical design as meta-pattern, Planning deep dive, KV Cache, Score-Based c
 <div class="ai-sb-meta">2026-07-26</div>
 Planning completed, Image-Text Reasoning (MMMU + modality sabotage), KV Cache eviction, Score-Based Models manifold theory, Memory started, P3v2 TALE architecture
 </div>
+
+<div class="ai-status-block" markdown="1">
+<div class="ai-sb-header" markdown="1">📅 [Week 9 — 记忆范式转移](weekly/2026-08-02-weekly-synthesis.md)</div>
+<div class="ai-sb-meta">2026-08-02</div>
+Memory paradigm shift (retrieval → reconstruction), Image-Text Reasoning + Score-Based Models completed, KV Cache offloading pillar, P3v2 SDB enforcement built; observation/context size as dominant cost
+</div>
