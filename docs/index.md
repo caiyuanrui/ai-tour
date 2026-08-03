@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 151 篇论文（50 主 + 101 相关）</span>
+<span>📚 154 篇论文（51 主 + 103 相关）</span>
 <span>✅ 11 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -25,7 +25,7 @@
 </div>
 <div class="ai-card-desc">LLM agents, reasoning, tools, planning, memory, evaluation, multi-agent systems</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Memory (3d, conf 0.65)</span>
+<span class="ai-topic-badge active">🟢 Memory (4d, conf 0.74)</span>
 <span class="ai-topic-badge completed">✅ Planning (5d, conf 0.80)</span>
 <span class="ai-topic-badge completed">✅ Tool Use (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ Architectures (5d, conf 0.85)</span>
@@ -115,7 +115,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">151</div>
+<div class="ai-stat-value">154</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -138,7 +138,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 151 篇（50 主论文 + 101 相关）
+    - 论文阅读: 154 篇（51 主论文 + 103 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving
     - 激活中主题: Memory, Video Understanding, KV Cache, Sampling

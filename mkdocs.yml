@@ -100,6 +100,7 @@ nav:
       - "Day 1 — Agent-Native Memory": agents/memory/2026-07-24-memory.md
       - "Day 2 — MemGPT": agents/memory/2026-07-27-memory.md
       - "Day 3 — Graph Memory": agents/memory/2026-07-31-memory.md
+      - "Day 4 — Memory Security & Eval": agents/memory/2026-08-03-memory.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
