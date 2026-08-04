@@ -2,9 +2,13 @@
 
 Question: **How do models represent temporal information in video?**
 
-This directory contains daily research-map notes for this topic.
+🟢 **Active** — Started 2026-08-04
 
-🟢 **Active** — Starting July 28, 2026
+## Notes
+
+| Date | Paper | Paradigm | Link |
+|------|-------|----------|------|
+| 2026-08-04 | Video Understanding with Large Language Models: A Survey (Tang et al. 2023) | Survey / Landscape | [📄](2026-08-04-video-understanding.md) |
 
 ## Connection to Previous Topics
 

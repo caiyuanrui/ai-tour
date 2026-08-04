@@ -119,6 +119,7 @@ nav:
       - "Day 5 — Topic Capstone": multimodal/image-text-reasoning/2026-07-28-image-text-reasoning-capstone.md
     - Video Understanding:
       - multimodal/video-understanding/index.md
+      - "Day 1 — Vid-LLM Survey": multimodal/video-understanding/2026-08-04-video-understanding.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:

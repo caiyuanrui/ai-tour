@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 154 篇论文（51 主 + 103 相关）</span>
+<span>📚 157 篇论文（52 主 + 105 相关）</span>
 <span>✅ 11 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -41,7 +41,7 @@
 </div>
 <div class="ai-card-desc">VLM pretraining, image-text reasoning, video understanding, grounding, VLA, world models</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Video Understanding</span>
+<span class="ai-topic-badge active">🟢 Video Understanding (1d, conf 0.40)</span>
 <span class="ai-topic-badge completed">✅ Image-Text Reasoning (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ VLM Pretraining (5d, conf 0.82)</span>
 </div>
@@ -115,7 +115,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">154</div>
+<div class="ai-stat-value">157</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -138,7 +138,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 154 篇（51 主论文 + 103 相关）
+    - 论文阅读: 157 篇（52 主论文 + 105 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving
     - 激活中主题: Memory, Video Understanding, KV Cache, Sampling
