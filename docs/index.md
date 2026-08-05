@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 157 篇论文（52 主 + 105 相关）</span>
+<span>📚 160 篇论文（53 主 + 107 相关）</span>
 <span>✅ 11 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -56,7 +56,7 @@
 </div>
 <div class="ai-card-desc">Inference serving, KV cache, batching, distributed training, memory optimization, agent runtime</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 KV Cache (3d, conf 0.62)</span>
+<span class="ai-topic-badge active">🟢 KV Cache (4d, conf 0.70)</span>
 <span class="ai-topic-badge completed">✅ Inference Serving (5d, conf 0.86)</span>
 </div>
 </div>
@@ -115,7 +115,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">157</div>
+<div class="ai-stat-value">160</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -138,7 +138,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 157 篇（52 主论文 + 105 相关）
+    - 论文阅读: 160 篇（53 主论文 + 107 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving
     - 激活中主题: Memory, Video Understanding, KV Cache, Sampling
