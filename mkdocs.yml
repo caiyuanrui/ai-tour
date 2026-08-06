@@ -152,6 +152,7 @@ nav:
       - "Day 5 — Score Smoothing + Topic Capstone": generative-models/score-models/2026-07-30-score-models.md
     - Sampling:
       - generative-models/samplers/index.md
+      - "Day 1 — DPM-Solver": generative-models/samplers/2026-08-06-samplers.md
   - AI Company Blogs:
     - ai-blogs/index.md
     - OpenAI Blog:
