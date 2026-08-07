@@ -101,6 +101,9 @@ nav:
       - "Day 2 — MemGPT": agents/memory/2026-07-27-memory.md
       - "Day 3 — Graph Memory": agents/memory/2026-07-31-memory.md
       - "Day 4 — Memory Security & Eval": agents/memory/2026-08-03-memory.md
+      - "Day 5 — Topic Capstone": agents/memory/2026-08-07-memory.md
+    - Reasoning:
+      - agents/reasoning/index.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:

@@ -27,20 +27,20 @@ How do agents decompose, revise, and execute long-horizon tasks?
 </div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header" markdown="1">🟢 [Memory](memory/index.md)</div>
-<div class="ai-sb-meta">4d · 12 papers · conf 0.74</div>
+<div class="ai-sb-header" markdown="1">✅ [Memory](memory/index.md)</div>
+<div class="ai-sb-meta">5d · 15 papers · conf 0.82</div>
 What forms of memory help agents over long interactions?
-
-<div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 74%"></div></div>
-<span class="ai-progress-label">74%</span>
-</div></div>
 </div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header">⬜ Reasoning</div>
-<div class="ai-sb-meta">Pending</div>
+<div class="ai-sb-header" markdown="1">🟢 [Reasoning](reasoning/index.md)</div>
+<div class="ai-sb-meta">0d · 0 papers · conf 0.00</div>
 How do agents improve reasoning through search, reflection, verification, or self-consistency?
+
+<div class="ai-progress-bar">
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 0%"></div></div>
+<span class="ai-progress-label">0%</span>
+</div></div>
 </div>
 
 <div class="ai-status-block" markdown="1">
