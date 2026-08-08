@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 163 篇论文（54 主 + 109 相关）</span>
+<span>📚 166 篇论文（55 主 + 111 相关）</span>
 <span>✅ 12 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -86,7 +86,7 @@
 </div>
 <div class="ai-card-desc">阅读并总结前沿 AI 公司官方博客 — OpenAI / Anthropic / DeepMind / Google Research / Meta AI</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 OpenAI Blog</span>
+<span class="ai-topic-badge active">🟢 OpenAI Blog (1d, conf 0.40)</span>
 <span class="ai-topic-badge completed">✅ 历史笔记归档</span>
 </div>
 </div>
@@ -116,7 +116,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">163</div>
+<div class="ai-stat-value">166</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -139,9 +139,9 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 163 篇（54 主论文 + 109 相关）
+    - 论文阅读: 166 篇（55 主论文 + 111 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, Memory, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving
-    - 激活中主题: Reasoning, Video Understanding, KV Cache, Sampling
+    - 激活中主题: Reasoning, Video Understanding, KV Cache, Sampling, OpenAI Blog
     - 已完成 Lab 主题: Implementation Notes, Failure Analysis, Project Planning
     - 激活中 Lab 主题: Experiment Log (Cycle 3, 从 2026-08-01 起)

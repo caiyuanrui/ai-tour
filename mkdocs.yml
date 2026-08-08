@@ -160,6 +160,7 @@ nav:
     - ai-blogs/index.md
     - OpenAI Blog:
       - ai-blogs/openai/index.md
+      - "Day 1 — GPT-Live Realtime Voice": ai-blogs/openai/2026-08-08-openai.md
     - Anthropic Blog:
       - ai-blogs/anthropic/index.md
     - Google DeepMind Blog:
