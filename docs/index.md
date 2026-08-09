@@ -100,7 +100,7 @@
 </div>
 <div class="ai-card-desc">Cross-course synthesis — connections, contradictions, thesis directions</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge completed">✅ Week 1–9</span>
+<span class="ai-topic-badge completed">✅ Week 1–10</span>
 </div>
 </div>
 
@@ -126,7 +126,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">9</div>
+<div class="ai-stat-value">10</div>
 <div class="ai-stat-label">更新周期</div>
 </div>
 

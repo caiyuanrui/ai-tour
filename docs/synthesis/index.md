@@ -61,3 +61,9 @@ Planning completed, Image-Text Reasoning (MMMU + modality sabotage), KV Cache ev
 <div class="ai-sb-meta">2026-08-02</div>
 Memory paradigm shift (retrieval → reconstruction), Image-Text Reasoning + Score-Based Models completed, KV Cache offloading pillar, P3v2 SDB enforcement built; observation/context size as dominant cost
 </div>
+
+<div class="ai-status-block" markdown="1">
+<div class="ai-sb-header" markdown="1">📅 [Week 10 — 上下文即能力](weekly/2026-08-09-weekly-synthesis.md)</div>
+<div class="ai-sb-meta">2026-08-09</div>
+Context management as dominant theme (MLA architectural KV compression, Memory completed with trust axis, OpenAI compaction-as-handoff + retained reasoning 3× ARC-AGI-3), composition safety generalizes, retain-vs-secure tension
+</div>
