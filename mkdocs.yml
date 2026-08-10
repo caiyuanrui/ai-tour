@@ -104,6 +104,7 @@ nav:
       - "Day 5 — Topic Capstone": agents/memory/2026-08-07-memory.md
     - Reasoning:
       - agents/reasoning/index.md
+      - "Day 1 — CoT": agents/reasoning/2026-08-10-reasoning.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
