@@ -9,6 +9,7 @@ Question: **How do models represent temporal information in video?**
 | Date | Paper | Paradigm | Link |
 |------|-------|----------|------|
 | 2026-08-04 | Video Understanding with Large Language Models: A Survey (Tang et al. 2023) | Survey / Landscape | [📄](2026-08-04-video-understanding.md) |
+| 2026-08-11 | LLaVA-Video: An Image is Worth 1,024 Tokens (Zhang et al. 2024) | Method / Data Recipe | [📄](2026-08-11-video-understanding.md) |
 
 ## Connection to Previous Topics
 
