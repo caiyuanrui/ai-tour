@@ -140,6 +140,9 @@ nav:
       - "Day 2 — Eviction (Make Each Token Count + StreamingLLM)": llm-systems/kv-cache/2026-07-22-kv-cache.md
       - "Day 3 — ShadowKV": llm-systems/kv-cache/2026-07-29-kv-cache.md
       - "Day 4 — MLA (DeepSeek-V2)": llm-systems/kv-cache/2026-08-05-kv-cache.md
+      - "Day 5 — Topic Capstone": llm-systems/kv-cache/2026-08-12-kv-cache-capstone.md
+    - Batching and Scheduling:
+      - llm-systems/batching-scheduling/index.md
   - Generative Models:
     - generative-models/index.md
     - Diffusion Foundations:

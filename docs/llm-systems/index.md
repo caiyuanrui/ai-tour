@@ -9,26 +9,26 @@
 <div class="ai-divider"></div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header">✅ Inference Serving</div>
+<div class="ai-sb-header" markdown="1">✅ [Inference Serving](inference-serving/index.md)</div>
 <div class="ai-sb-meta">5d · 15 papers · conf 0.86</div>
 How are LLM inference systems optimized for throughput and latency?
 </div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header" markdown="1">🟢 [KV Cache](kv-cache/index.md)</div>
-<div class="ai-sb-meta">4d · 12 papers · conf 0.70</div>
+<div class="ai-sb-header" markdown="1">✅ [KV Cache](kv-cache/index.md)</div>
+<div class="ai-sb-meta">5d · 15 papers · conf 0.80</div>
 How does KV cache shape long-context inference and memory use?
-
-<div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 70%"></div></div>
-<span class="ai-progress-label">70%</span>
-</div>
 </div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header">⬜ Batching and Scheduling</div>
-<div class="ai-sb-meta">Pending</div>
+<div class="ai-sb-header" markdown="1">🟢 [Batching and Scheduling](batching-scheduling/index.md)</div>
+<div class="ai-sb-meta">0d · 0 papers · conf 0.00</div>
 How do serving systems schedule requests and tokens?
+
+<div class="ai-progress-bar">
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 0%"></div></div>
+<span class="ai-progress-label">0%</span>
+</div>
 </div>
 
 <div class="ai-status-block" markdown="1">

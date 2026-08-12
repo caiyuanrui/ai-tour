@@ -7,7 +7,7 @@
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
 <span>📚 172 篇论文（57 主 + 115 相关）</span>
-<span>✅ 12 已完成主题 · 5 激活中主题</span>
+<span>✅ 13 已完成主题 · 5 激活中主题</span>
 </div>
 
 </div>
@@ -57,7 +57,8 @@
 </div>
 <div class="ai-card-desc">Inference serving, KV cache, batching, distributed training, memory optimization, agent runtime</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 KV Cache (4d, conf 0.70)</span>
+<span class="ai-topic-badge active">🟢 Batching and Scheduling (0d, conf 0.00)</span>
+<span class="ai-topic-badge completed">✅ KV Cache (5d, conf 0.80)</span>
 <span class="ai-topic-badge completed">✅ Inference Serving (5d, conf 0.86)</span>
 </div>
 </div>
@@ -121,7 +122,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">12</div>
+<div class="ai-stat-value">13</div>
 <div class="ai-stat-label">已完成主题</div>
 </div>
 
@@ -141,7 +142,7 @@
     - 课程数: 5 主课程 + 1 synthesis
     - 论文阅读: 172 篇（57 主论文 + 115 相关）
     - 开始日期: 2026-06-01
-    - 已完成主题: Architectures, Tool Use, Planning, Memory, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving
-    - 激活中主题: Reasoning, Video Understanding, KV Cache, Sampling, OpenAI Blog
+    - 已完成主题: Architectures, Tool Use, Planning, Memory, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
+    - 激活中主题: Reasoning, Video Understanding, Batching and Scheduling, Sampling, OpenAI Blog
     - 已完成 Lab 主题: Implementation Notes, Failure Analysis, Project Planning
     - 激活中 Lab 主题: Experiment Log (Cycle 3, 从 2026-08-01 起)

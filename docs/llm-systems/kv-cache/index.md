@@ -2,13 +2,14 @@
 
 **Question:** How does KV cache shape long-context inference and memory use?
 
-This directory contains daily research-map notes for this topic.
+✅ **Completed** — 5 days · 15 papers · conf 0.80 (2026-08-12)
 
-## Reading List
+## Notes
 
-| Date | Paper | Summary |
-|------|-------|---------|
-| 2026-07-15 | [KIVI: 2-bit Asymmetric KV Cache Quantization](2026-07-15-kv-cache.md) | Tuning-free asymmetric KV cache quantization; per-channel keys, per-token values |
-| 2026-07-22 | [Make Each Token Count (Eviction)](2026-07-22-kv-cache.md) | Learned importance-aware eviction with eviction-aware training; StreamingLLM comparison |
-| 2026-07-29 | [ShadowKV: Offloading via Low-Rank Key Cache](2026-07-29-kv-cache.md) | Low-rank key compression + value cache offloading; on-the-fly sparse KV reconstruction |
-| 2026-08-05 | [MLA (DeepSeek-V2): Architectural KV Compression](2026-08-05-kv-cache.md) | Cache one latent per token (d_c=512) with decoupled RoPE; 93.3% KV reduction; GEAR + Palu as post-hoc low-rank contrasts |
+| Date | Paper | Paradigm | Link |
+|------|-------|----------|------|
+| 2026-07-15 | KIVI: 2-bit Asymmetric KV Cache Quantization | Quantization (post-hoc) | [📄](2026-07-15-kv-cache.md) |
+| 2026-07-22 | Make Each Token Count + StreamingLLM | Eviction (post-hoc) | [📄](2026-07-22-kv-cache.md) |
+| 2026-07-29 | ShadowKV: Low-Rank Key Cache + Offloading | Offloading (post-hoc) | [📄](2026-07-29-kv-cache.md) |
+| 2026-08-05 | MLA (DeepSeek-V2): Architectural KV Compression | Architectural | [📄](2026-08-05-kv-cache.md) |
+| 2026-08-12 | Topic Capstone — KV Cache Synthesis | Day 5 — Capstone / Synthesis | [📄](2026-08-12-kv-cache-capstone.md) |
