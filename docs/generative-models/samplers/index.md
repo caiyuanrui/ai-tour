@@ -9,3 +9,4 @@ This directory contains daily research-map notes for this topic.
 | Date | Papers | Confidence |
 |------|--------|------------|
 | [2026-08-06](2026-08-06-samplers.md) | DPM-Solver (Lu 2022) + DEIS + UniPC | 0.00 → 0.45 |
+| [2026-08-13](2026-08-13-samplers.md) | DPM-Solver++ (Lu 2022) + GENIE + Analytic-DPM | 0.45 → 0.58 |

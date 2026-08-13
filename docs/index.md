@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 172 篇论文（57 主 + 115 相关）</span>
+<span>📚 175 篇论文（58 主 + 117 相关）</span>
 <span>✅ 13 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -72,7 +72,7 @@
 </div>
 <div class="ai-card-desc">Diffusion foundations, score-based models, flow matching, consistency models, diffusion policy</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Sampling (1d, conf 0.45)</span>
+<span class="ai-topic-badge active">🟢 Sampling (2d, conf 0.58)</span>
 <span class="ai-topic-badge completed">✅ Score-Based Models (5d, conf 0.85)</span>
 <span class="ai-topic-badge completed">✅ Diffusion Foundations (4d, conf 0.82)</span>
 </div>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">172</div>
+<div class="ai-stat-value">175</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -140,7 +140,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 172 篇（57 主论文 + 115 相关）
+    - 论文阅读: 175 篇（58 主论文 + 117 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, Memory, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
     - 激活中主题: Reasoning, Video Understanding, Batching and Scheduling, Sampling, OpenAI Blog
