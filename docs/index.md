@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 175 篇论文（58 主 + 117 相关）</span>
+<span>📚 178 篇论文（59 主 + 119 相关）</span>
 <span>✅ 13 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -25,7 +25,7 @@
 </div>
 <div class="ai-card-desc">LLM agents, reasoning, tools, planning, memory, evaluation, multi-agent systems</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Reasoning (1d, conf 0.35)</span>
+<span class="ai-topic-badge active">🟢 Reasoning (2d, conf 0.55)</span>
 <span class="ai-topic-badge completed">✅ Memory (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ Planning (5d, conf 0.80)</span>
 <span class="ai-topic-badge completed">✅ Tool Use (5d, conf 0.82)</span>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">175</div>
+<div class="ai-stat-value">178</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -140,7 +140,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 175 篇（58 主论文 + 117 相关）
+    - 论文阅读: 178 篇（59 主论文 + 119 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, Memory, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
     - 激活中主题: Reasoning, Video Understanding, Batching and Scheduling, Sampling, OpenAI Blog
