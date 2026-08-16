@@ -67,3 +67,9 @@ Memory paradigm shift (retrieval → reconstruction), Image-Text Reasoning + Sco
 <div class="ai-sb-meta">2026-08-09</div>
 Context management as dominant theme (MLA architectural KV compression, Memory completed with trust axis, OpenAI compaction-as-handoff + retained reasoning 3× ARC-AGI-3), composition safety generalizes, retain-vs-secure tension
 </div>
+
+<div class="ai-status-block" markdown="1">
+<div class="ai-sb-header" markdown="1">📅 [Week 11 — 验证即支柱](weekly/2026-08-16-weekly-synthesis.md)</div>
+<div class="ai-sb-meta">2026-08-16</div>
+Verification as the week's spine (PRM vs ORM, test-time compute, guidance-stable parameterization, eval containment); budget allocation as meta-pattern; measurement as two-sided confound; top thesis: verification-signal selection for agent reasoning
+</div>
