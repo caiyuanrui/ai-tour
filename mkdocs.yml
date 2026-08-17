@@ -106,6 +106,7 @@ nav:
       - agents/reasoning/index.md
       - "Day 1 — CoT": agents/reasoning/2026-08-10-reasoning.md
       - "Day 2 — PRM (Let's Verify Step by Step)": agents/reasoning/2026-08-14-reasoning.md
+      - "Day 3 — DeepSeek-R1 (RL / verifiable rewards)": agents/reasoning/2026-08-17-reasoning.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:

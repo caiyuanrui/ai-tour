@@ -34,12 +34,12 @@ What forms of memory help agents over long interactions?
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">🟢 [Reasoning](reasoning/index.md)</div>
-<div class="ai-sb-meta">2d · 6 papers · conf 0.55</div>
+<div class="ai-sb-meta">3d · 9 papers · conf 0.68</div>
 How do agents improve reasoning through search, reflection, verification, or self-consistency?
 
 <div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 55%"></div></div>
-<span class="ai-progress-label">55%</span>
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 68%"></div></div>
+<span class="ai-progress-label">68%</span>
 </div></div>
 </div>
 
