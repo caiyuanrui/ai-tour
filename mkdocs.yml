@@ -127,6 +127,7 @@ nav:
       - multimodal/video-understanding/index.md
       - "Day 1 — Vid-LLM Survey": multimodal/video-understanding/2026-08-04-video-understanding.md
       - "Day 2 — LLaVA-Video": multimodal/video-understanding/2026-08-11-video-understanding.md
+      - "Day 3 — ReTaKe (KV compression)": multimodal/video-understanding/2026-08-18-video-understanding.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:
