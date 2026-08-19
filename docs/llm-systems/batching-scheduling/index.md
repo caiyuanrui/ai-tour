@@ -10,3 +10,4 @@ This directory contains daily research-map notes for this topic.
 
 | Date | Paper | Paradigm | Link |
 |------|-------|----------|------|
+| 2026-08-19 | SGLang (RadixAttention) — Cache-Aware Scheduling | Cache-aware request scheduling | [📄](2026-08-19-batching-scheduling.md) |

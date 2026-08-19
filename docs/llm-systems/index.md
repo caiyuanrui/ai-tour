@@ -22,12 +22,12 @@ How does KV cache shape long-context inference and memory use?
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">🟢 [Batching and Scheduling](batching-scheduling/index.md)</div>
-<div class="ai-sb-meta">0d · 0 papers · conf 0.00</div>
+<div class="ai-sb-meta">1d · 3 papers · conf 0.45</div>
 How do serving systems schedule requests and tokens?
 
 <div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 0%"></div></div>
-<span class="ai-progress-label">0%</span>
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 45%"></div></div>
+<span class="ai-progress-label">45%</span>
 </div>
 </div>
 
