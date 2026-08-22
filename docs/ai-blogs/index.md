@@ -11,12 +11,12 @@
 <div class="ai-status-block" markdown="1">
 
 <div class="ai-sb-header"> <span>🟢</span> <h3>[OpenAI Blog](openai/index.md)</h3> </div>
-<div class="ai-sb-meta">2d · 6 posts · conf 0.55</div>
+<div class="ai-sb-meta">3d · 9 posts · conf 0.65</div>
 What does OpenAI's recent engineering output reveal that papers don't?
 
 <div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 55%"></div></div>
-<span class="ai-progress-label">55%</span>
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 65%"></div></div>
+<span class="ai-progress-label">65%</span>
 </div>
 
 </div>
@@ -54,6 +54,11 @@ What does a frontier lab outside the Big Five reveal that papers don't?
 <div class="ai-divider"></div>
 
 ## 历史报告
+
+<div class="ai-status-block" markdown="1">
+<div class="ai-sb-header" markdown="1">📝 [Day 3 — Pacing Model Development & Training-Time Governance](openai/2026-08-22-openai.md)</div>
+<div class="ai-sb-meta">2026-08-22 · OpenAI Blog</div>
+</div>
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">📝 [Day 2 — Cyber Eval Containment & GPT-5.6-Cyber](openai/2026-08-15-openai.md)</div>

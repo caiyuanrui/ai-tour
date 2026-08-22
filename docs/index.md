@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 196 篇论文（65 主 + 131 相关）</span>
+<span>📚 199 篇论文（66 主 + 133 相关）</span>
 <span>✅ 13 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -87,7 +87,7 @@
 </div>
 <div class="ai-card-desc">阅读并总结前沿 AI 公司官方博客 — OpenAI / Anthropic / DeepMind / Google Research / Meta AI</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 OpenAI Blog (2d, conf 0.55)</span>
+<span class="ai-topic-badge active">🟢 OpenAI Blog (3d, conf 0.65)</span>
 <span class="ai-topic-badge completed">✅ 历史笔记归档</span>
 </div>
 </div>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">196</div>
+<div class="ai-stat-value">199</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -140,7 +140,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 196 篇（65 主论文 + 131 相关）
+    - 论文阅读: 199 篇（66 主论文 + 133 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, Memory, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
     - 激活中主题: Reasoning, Video Understanding, Batching and Scheduling, Sampling, OpenAI Blog

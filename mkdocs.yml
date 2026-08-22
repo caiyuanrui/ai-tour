@@ -172,6 +172,7 @@ nav:
     - ai-blogs/index.md
     - OpenAI Blog:
       - ai-blogs/openai/index.md
+      - "Day 3 — Training-Time Governance & Cyber-Critical Pacing": ai-blogs/openai/2026-08-22-openai.md
       - "Day 2 — Cyber Eval Containment & GPT-5.6-Cyber": ai-blogs/openai/2026-08-15-openai.md
       - "Day 1 — GPT-Live Realtime Voice": ai-blogs/openai/2026-08-08-openai.md
     - Anthropic Blog:
