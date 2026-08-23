@@ -73,3 +73,9 @@ Context management as dominant theme (MLA architectural KV compression, Memory c
 <div class="ai-sb-meta">2026-08-16</div>
 Verification as the week's spine (PRM vs ORM, test-time compute, guidance-stable parameterization, eval containment); budget allocation as meta-pattern; measurement as two-sided confound; top thesis: verification-signal selection for agent reasoning
 </div>
+
+<div class="ai-status-block" markdown="1">
+<div class="ai-sb-header" markdown="1">📅 [Week 12 — 奖励工程即前沿](weekly/2026-08-23-weekly-synthesis.md)</div>
+<div class="ai-sb-meta">2026-08-23</div>
+Reward/signal engineering as the spine ('verifiable' as a design variable: R1 → SEEA-R1 → RAGEN → WebRL); budget allocation meta-pattern for week 3 (schedules, video tokens, serving, monitoring overhead); training-free vs trained dichotomy; safety/governance as first-class systems problem (cyber-critical pacing); top thesis: verifier-hierarchy selection for agent reasoning
+</div>

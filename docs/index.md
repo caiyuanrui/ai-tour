@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 199 篇论文（66 主 + 133 相关）</span>
+<span>📚 217 篇论文（72 主 + 145 相关）</span>
 <span>✅ 13 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -101,7 +101,7 @@
 </div>
 <div class="ai-card-desc">Cross-course synthesis — connections, contradictions, thesis directions</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge completed">✅ Week 1–11</span>
+<span class="ai-topic-badge completed">✅ Week 1–12</span>
 </div>
 </div>
 
@@ -117,7 +117,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">199</div>
+<div class="ai-stat-value">217</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -127,7 +127,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">11</div>
+<div class="ai-stat-value">12</div>
 <div class="ai-stat-label">更新周期</div>
 </div>
 
@@ -140,7 +140,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 199 篇（66 主论文 + 133 相关）
+    - 论文阅读: 217 篇（72 主论文 + 145 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, Memory, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
     - 激活中主题: Reasoning, Video Understanding, Batching and Scheduling, Sampling, OpenAI Blog
