@@ -22,12 +22,12 @@ How do models reason over visual and textual information?
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">🟢 [Video Understanding](video-understanding/index.md)</div>
-<div class="ai-sb-meta">3d · 9 papers · conf 0.62</div>
+<div class="ai-sb-meta">4d · 12 papers · conf 0.68</div>
 How do models represent temporal information in video?
 
 <div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 62%"></div></div>
-<span class="ai-progress-label">62%</span>
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 68%"></div></div>
+<span class="ai-progress-label">68%</span>
 </div>
 </div>
 

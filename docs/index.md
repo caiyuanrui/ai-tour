@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 217 篇论文（72 主 + 145 相关）</span>
+<span>📚 220 篇论文（73 主 + 147 相关）</span>
 <span>✅ 14 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -43,7 +43,7 @@
 </div>
 <div class="ai-card-desc">VLM pretraining, image-text reasoning, video understanding, grounding, VLA, world models</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Video Understanding (3d, conf 0.62)</span>
+<span class="ai-topic-badge active">🟢 Video Understanding (4d, conf 0.68)</span>
 <span class="ai-topic-badge completed">✅ Image-Text Reasoning (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ VLM Pretraining (5d, conf 0.82)</span>
 </div>
@@ -118,7 +118,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">217</div>
+<div class="ai-stat-value">220</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -141,7 +141,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 217 篇（72 主论文 + 145 相关）
+    - 论文阅读: 220 篇（73 主论文 + 147 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
     - 激活中主题: RL for Agents, Video Understanding, Batching and Scheduling, Sampling, OpenAI Blog
