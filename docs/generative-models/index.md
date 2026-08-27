@@ -22,12 +22,12 @@ How does score estimation define generation?
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">🟢 [Sampling](samplers/index.md)</div>
-<div class="ai-sb-meta">3d · 9 papers · conf 0.68</div>
+<div class="ai-sb-meta">4d · 12 papers · conf 0.74</div>
 How do samplers trade quality, speed, and likelihood?
 
 <div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 68%"></div></div>
-<span class="ai-progress-label">68%</span>
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 74%"></div></div>
+<span class="ai-progress-label">74%</span>
 </div>
 
 </div>

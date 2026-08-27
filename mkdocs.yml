@@ -173,6 +173,7 @@ nav:
       - "Day 1 — DPM-Solver": generative-models/samplers/2026-08-06-samplers.md
       - "Day 2 — DPM-Solver++": generative-models/samplers/2026-08-13-samplers.md
       - "Day 3 — Align Your Steps (schedule optimization)": generative-models/samplers/2026-08-20-samplers.md
+      - "Day 4 — CTM (distillation boundary)": generative-models/samplers/2026-08-27-samplers.md
   - AI Company Blogs:
     - ai-blogs/index.md
     - OpenAI Blog:
