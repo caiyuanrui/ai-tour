@@ -111,6 +111,7 @@ nav:
       - "Day 5 — Topic Capstone": agents/reasoning/2026-08-24-reasoning.md
     - RL for Agents:
       - agents/rl-for-agents/index.md
+      - "Day 1 — RL Survey (Deep Research)": agents/rl-for-agents/2026-08-28-rl-for-agents.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:

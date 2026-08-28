@@ -10,3 +10,4 @@ This directory contains daily research-map notes for this topic.
 
 | Date | Paper | Paradigm | Link |
 |------|-------|----------|------|
+| 2026-08-28 | RL Foundations for Deep Research Systems: A Survey (Li 2025) | Survey / RL-for-agents map | [note](2026-08-28-rl-for-agents.md) |
