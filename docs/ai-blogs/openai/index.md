@@ -18,6 +18,7 @@ Reading and summarizing official engineering/technical blog posts from OpenAI, c
 
 | Date | Post | Focus | Link |
 |------|------|-------|------|
+| 2026-08-29 | Jalapeño chip results + HF incident report | Silicon efficiency / full-stack co-design / misalignment case study | [2026-08-29-openai.md](2026-08-29-openai.md) |
 | 2026-08-22 | Pacing model development & training-time governance | Safety / monitoring / alignment / training cadence | [2026-08-22-openai.md](2026-08-22-openai.md) |
 | 2026-08-15 | Cyber eval containment & GPT-5.6-Cyber | Safety / cyber evals / governed access | [2026-08-15-openai.md](2026-08-15-openai.md) |
 | 2026-08-08 | GPT-Live: realtime voice system | Realtime systems / stateful inference / agents | [2026-08-08-openai.md](2026-08-08-openai.md) |
