@@ -79,3 +79,9 @@ Verification as the week's spine (PRM vs ORM, test-time compute, guidance-stable
 <div class="ai-sb-meta">2026-08-23</div>
 Reward/signal engineering as the spine ('verifiable' as a design variable: R1 → SEEA-R1 → RAGEN → WebRL); budget allocation meta-pattern for week 3 (schedules, video tokens, serving, monitoring overhead); training-free vs trained dichotomy; safety/governance as first-class systems problem (cyber-critical pacing); top thesis: verifier-hierarchy selection for agent reasoning
 </div>
+
+<div class="ai-status-block" markdown="1">
+<div class="ai-sb-header" markdown="1">📅 [Week 13 — 测量即前沿](weekly/2026-08-30-weekly-synthesis.md)</div>
+<div class="ai-sb-meta">2026-08-30</div>
+Measurement as first-class instrument (HourVideo/TemporalBench/MBA + HF incident 100x harness effect); estimator as bottleneck (SSJF/ProD/ESTP ↔ learned RMs); four orthogonal training-side few-step mechanisms (CTM/DMD/reflow/ADD); sampling density as hidden variable (F-16); Reasoning completed → RL-for-Agents started (test-time search as clearest gap); efficiency-risk shared budget (Jalapeño + HF same week); top theses: verifier-hierarchy selection (trajectory granularity) + temporal-detail-preserving compression
+</div>
