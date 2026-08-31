@@ -112,6 +112,7 @@ nav:
     - RL for Agents:
       - agents/rl-for-agents/index.md
       - "Day 1 — RL Survey (Deep Research)": agents/rl-for-agents/2026-08-28-rl-for-agents.md
+      - "Day 2 — Tool-R1 (GRPO for tool use)": agents/rl-for-agents/2026-08-31-rl-for-agents.md
   - Multimodal:
     - multimodal/index.md
     - VLM Pretraining:
