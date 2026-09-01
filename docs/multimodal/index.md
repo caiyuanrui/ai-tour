@@ -21,20 +21,20 @@ How do models reason over visual and textual information?
 </div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header" markdown="1">🟢 [Video Understanding](video-understanding/index.md)</div>
-<div class="ai-sb-meta">4d · 12 papers · conf 0.68</div>
+<div class="ai-sb-header" markdown="1">✅ [Video Understanding](video-understanding/index.md)</div>
+<div class="ai-sb-meta">5d · 15 papers · conf 0.80</div>
 How do models represent temporal information in video?
-
-<div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 68%"></div></div>
-<span class="ai-progress-label">68%</span>
-</div>
 </div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header">⬜ Grounding</div>
-<div class="ai-sb-meta">Pending</div>
+<div class="ai-sb-header" markdown="1">🟢 [Grounding](grounding/index.md)</div>
+<div class="ai-sb-meta">0d · 0 papers · conf 0.00</div>
 How do models connect text to regions, objects, actions, and time spans?
+
+<div class="ai-progress-bar">
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 0%"></div></div>
+<span class="ai-progress-label">0%</span>
+</div>
 </div>
 
 <div class="ai-status-block" markdown="1">

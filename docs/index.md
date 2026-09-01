@@ -7,7 +7,7 @@
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
 <span>📚 235 篇论文（78 主 + 157 相关）</span>
-<span>✅ 14 已完成主题 · 5 激活中主题</span>
+<span>✅ 15 已完成主题 · 5 激活中主题</span>
 </div>
 
 </div>
@@ -43,7 +43,8 @@
 </div>
 <div class="ai-card-desc">VLM pretraining, image-text reasoning, video understanding, grounding, VLA, world models</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Video Understanding (4d, conf 0.68)</span>
+<span class="ai-topic-badge active">🟢 Grounding (0d, conf 0.00)</span>
+<span class="ai-topic-badge completed">✅ Video Understanding (5d, conf 0.80)</span>
 <span class="ai-topic-badge completed">✅ Image-Text Reasoning (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ VLM Pretraining (5d, conf 0.82)</span>
 </div>
@@ -123,7 +124,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">14</div>
+<div class="ai-stat-value">15</div>
 <div class="ai-stat-label">已完成主题</div>
 </div>
 
@@ -143,7 +144,7 @@
     - 课程数: 5 主课程 + 1 synthesis
     - 论文阅读: 235 篇（78 主论文 + 157 相关）
     - 开始日期: 2026-06-01
-    - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
-    - 激活中主题: RL for Agents, Video Understanding, Batching and Scheduling, Sampling, OpenAI Blog
+    - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Video Understanding, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
+    - 激活中主题: RL for Agents, Grounding, Batching and Scheduling, Sampling, OpenAI Blog
     - 已完成 Lab 主题: Implementation Notes, Failure Analysis, Project Planning
     - 激活中 Lab 主题: Experiment Log (Cycle 3, 从 2026-08-01 起)

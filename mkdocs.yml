@@ -135,6 +135,9 @@ nav:
       - "Day 2 — LLaVA-Video": multimodal/video-understanding/2026-08-11-video-understanding.md
       - "Day 3 — ReTaKe (KV compression)": multimodal/video-understanding/2026-08-18-video-understanding.md
       - "Day 4 — HourVideo (temporal benchmarks)": multimodal/video-understanding/2026-08-25-video-understanding.md
+      - "Day 5 — Topic Capstone": multimodal/video-understanding/2026-09-01-video-understanding-capstone.md
+    - Grounding:
+      - multimodal/grounding/index.md
   - LLM Systems:
     - llm-systems/index.md
     - Inference Serving:
