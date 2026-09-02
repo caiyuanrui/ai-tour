@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 235 篇论文（78 主 + 157 相关）</span>
+<span>📚 238 篇论文（79 主 + 159 相关）</span>
 <span>✅ 15 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -59,7 +59,7 @@
 </div>
 <div class="ai-card-desc">Inference serving, KV cache, batching, distributed training, memory optimization, agent runtime</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Batching and Scheduling (2d, conf 0.58)</span>
+<span class="ai-topic-badge active">🟢 Batching and Scheduling (3d, conf 0.66)</span>
 <span class="ai-topic-badge completed">✅ KV Cache (5d, conf 0.80)</span>
 <span class="ai-topic-badge completed">✅ Inference Serving (5d, conf 0.86)</span>
 </div>
@@ -119,7 +119,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">235</div>
+<div class="ai-stat-value">238</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -142,7 +142,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 235 篇（78 主论文 + 157 相关）
+    - 论文阅读: 238 篇（79 主论文 + 159 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Video Understanding, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
     - 激活中主题: RL for Agents, Grounding, Batching and Scheduling, Sampling, OpenAI Blog

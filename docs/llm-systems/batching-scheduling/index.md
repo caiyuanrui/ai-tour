@@ -12,3 +12,4 @@ This directory contains daily research-map notes for this topic.
 |------|-------|----------|------|
 | 2026-08-19 | SGLang (RadixAttention) — Cache-Aware Scheduling | Cache-aware request scheduling | [📄](2026-08-19-batching-scheduling.md) |
 | 2026-08-26 | SSJF — Proxy-Model Length Prediction + SJF | Prediction-based (length-aware) scheduling | [📄](2026-08-26-batching-scheduling.md) |
+| 2026-09-02 | Mooncake — KVCache-Centric Cluster Scheduling | KVCache-centric cluster scheduling (+ CacheBlend KV fusion, Preble prompt scheduling) | [📄](2026-09-02-batching-scheduling.md) |

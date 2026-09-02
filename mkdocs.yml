@@ -158,6 +158,7 @@ nav:
       - llm-systems/batching-scheduling/index.md
       - "Day 1 — SGLang (RadixAttention)": llm-systems/batching-scheduling/2026-08-19-batching-scheduling.md
       - "Day 2 — SSJF (length-prediction scheduling)": llm-systems/batching-scheduling/2026-08-26-batching-scheduling.md
+      - "Day 3 — Mooncake (KVCache-centric scheduling)": llm-systems/batching-scheduling/2026-09-02-batching-scheduling.md
   - Generative Models:
     - generative-models/index.md
     - Diffusion Foundations:
