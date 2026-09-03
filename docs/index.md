@@ -7,7 +7,7 @@
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
 <span>📚 238 篇论文（79 主 + 159 相关）</span>
-<span>✅ 15 已完成主题 · 5 激活中主题</span>
+<span>✅ 16 已完成主题 · 5 激活中主题</span>
 </div>
 
 </div>
@@ -74,7 +74,8 @@
 </div>
 <div class="ai-card-desc">Diffusion foundations, score-based models, flow matching, consistency models, diffusion policy</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 Sampling (4d, conf 0.74)</span>
+<span class="ai-topic-badge active">🟢 Flow Matching (0d, conf 0.00)</span>
+<span class="ai-topic-badge completed">✅ Sampling (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ Score-Based Models (5d, conf 0.85)</span>
 <span class="ai-topic-badge completed">✅ Diffusion Foundations (4d, conf 0.82)</span>
 </div>
@@ -124,7 +125,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">15</div>
+<div class="ai-stat-value">16</div>
 <div class="ai-stat-label">已完成主题</div>
 </div>
 
@@ -144,7 +145,7 @@
     - 课程数: 5 主课程 + 1 synthesis
     - 论文阅读: 238 篇（79 主论文 + 159 相关）
     - 开始日期: 2026-06-01
-    - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Video Understanding, Diffusion Foundations, Score-Based Models, Inference Serving, KV Cache
-    - 激活中主题: RL for Agents, Grounding, Batching and Scheduling, Sampling, OpenAI Blog
+    - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Video Understanding, Diffusion Foundations, Score-Based Models, Sampling, Inference Serving, KV Cache
+    - 激活中主题: RL for Agents, Grounding, Batching and Scheduling, Flow Matching, OpenAI Blog
     - 已完成 Lab 主题: Implementation Notes, Failure Analysis, Project Planning
     - 激活中 Lab 主题: Experiment Log (Cycle 3, 从 2026-08-01 起)
