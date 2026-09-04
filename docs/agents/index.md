@@ -40,12 +40,12 @@ How do agents improve reasoning through search, reflection, verification, or sel
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">🟢 [RL for Agents](rl-for-agents/index.md)</div>
-<div class="ai-sb-meta">2d · 6 papers · conf 0.50</div>
+<div class="ai-sb-meta">3d · 9 papers · conf 0.62</div>
 How do RL-style training signals improve agent behavior?
 
 <div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 50%"></div></div>
-<span class="ai-progress-label">50%</span>
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 62%"></div></div>
+<span class="ai-progress-label">62%</span>
 </div>
 </div>
 

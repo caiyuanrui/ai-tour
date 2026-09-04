@@ -6,7 +6,7 @@
 
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
-<span>📚 238 篇论文（79 主 + 159 相关）</span>
+<span>📚 241 篇论文（80 主 + 161 相关）</span>
 <span>✅ 16 已完成主题 · 5 激活中主题</span>
 </div>
 
@@ -25,7 +25,7 @@
 </div>
 <div class="ai-card-desc">LLM agents, reasoning, tools, planning, memory, evaluation, multi-agent systems</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 RL for Agents (2d, conf 0.50)</span>
+<span class="ai-topic-badge active">🟢 RL for Agents (3d, conf 0.62)</span>
 <span class="ai-topic-badge completed">✅ Reasoning (5d, conf 0.83)</span>
 <span class="ai-topic-badge completed">✅ Memory (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ Planning (5d, conf 0.80)</span>
@@ -120,7 +120,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">238</div>
+<div class="ai-stat-value">241</div>
 <div class="ai-stat-label">论文阅读</div>
 </div>
 
@@ -143,7 +143,7 @@
 
 ??? info "学习统计详情"
     - 课程数: 5 主课程 + 1 synthesis
-    - 论文阅读: 238 篇（79 主论文 + 159 相关）
+    - 论文阅读: 241 篇（80 主论文 + 161 相关）
     - 开始日期: 2026-06-01
     - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Video Understanding, Diffusion Foundations, Score-Based Models, Sampling, Inference Serving, KV Cache
     - 激活中主题: RL for Agents, Grounding, Batching and Scheduling, Flow Matching, OpenAI Blog
