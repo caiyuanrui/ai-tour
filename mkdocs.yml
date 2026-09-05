@@ -188,6 +188,7 @@ nav:
     - ai-blogs/index.md
     - OpenAI Blog:
       - ai-blogs/openai/index.md
+      - "Day 5 — Capstone: OpenAI Engineering Map": ai-blogs/openai/2026-09-05-openai.md
       - "Day 4 — Jalapeño Chip Results & HF Incident Report": ai-blogs/openai/2026-08-29-openai.md
       - "Day 3 — Training-Time Governance & Cyber-Critical Pacing": ai-blogs/openai/2026-08-22-openai.md
       - "Day 2 — Cyber Eval Containment & GPT-5.6-Cyber": ai-blogs/openai/2026-08-15-openai.md

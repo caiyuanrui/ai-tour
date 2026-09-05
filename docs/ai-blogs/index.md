@@ -10,21 +10,23 @@
 
 <div class="ai-status-block" markdown="1">
 
-<div class="ai-sb-header"> <span>🟢</span> <h3>[OpenAI Blog](openai/index.md)</h3> </div>
-<div class="ai-sb-meta">4d · 12 posts · conf 0.72</div>
+<div class="ai-sb-header"> <span>✅</span> <h3>[OpenAI Blog](openai/index.md)</h3> </div>
+<div class="ai-sb-meta">5d · 15 posts · conf 0.82</div>
 What does OpenAI's recent engineering output reveal that papers don't?
-
-<div class="ai-progress-bar">
-<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 72%"></div></div>
-<span class="ai-progress-label">72%</span>
-</div>
 
 </div>
 
 <div class="ai-status-block" markdown="1">
-<div class="ai-sb-header">⬜ Anthropic Blog</div>
-<div class="ai-sb-meta">Pending</div>
+
+<div class="ai-sb-header"> <span>🟢</span> <h3>[Anthropic Blog](anthropic/index.md)</h3> </div>
+<div class="ai-sb-meta">0d · 0 posts · conf 0.00</div>
 What does Anthropic's recent engineering output reveal that papers don't?
+
+<div class="ai-progress-bar">
+<div class="ai-progress-track"><div class="ai-progress-fill" style="width: 0%"></div></div>
+<span class="ai-progress-label">0%</span>
+</div>
+
 </div>
 
 <div class="ai-status-block" markdown="1">
@@ -54,6 +56,11 @@ What does a frontier lab outside the Big Five reveal that papers don't?
 <div class="ai-divider"></div>
 
 ## 历史报告
+
+<div class="ai-status-block" markdown="1">
+<div class="ai-sb-header" markdown="1">📝 [Day 5 — Capstone: OpenAI Engineering Map (5d, conf 0.82)](openai/2026-09-05-openai.md)</div>
+<div class="ai-sb-meta">2026-09-05 · OpenAI Blog · 完成并推进至 Anthropic</div>
+</div>
 
 <div class="ai-status-block" markdown="1">
 <div class="ai-sb-header" markdown="1">📝 [Day 4 — Jalapeño Chip Results & HF Incident Report](openai/2026-08-29-openai.md)</div>

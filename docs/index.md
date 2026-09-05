@@ -7,7 +7,7 @@
 <div class="ai-meta-line">
 <span>📅 开始于 2026-06-01</span>
 <span>📚 241 篇论文（80 主 + 161 相关）</span>
-<span>✅ 16 已完成主题 · 5 激活中主题</span>
+<span>✅ 17 已完成主题 · 5 激活中主题</span>
 </div>
 
 </div>
@@ -90,7 +90,8 @@
 </div>
 <div class="ai-card-desc">阅读并总结前沿 AI 公司官方博客 — OpenAI / Anthropic / DeepMind / Google Research / Meta AI</div>
 <div class="ai-card-topics">
-<span class="ai-topic-badge active">🟢 OpenAI Blog (4d, conf 0.72)</span>
+<span class="ai-topic-badge active">🟢 Anthropic Blog (0d, conf 0.00)</span>
+<span class="ai-topic-badge completed">✅ OpenAI Blog (5d, conf 0.82)</span>
 <span class="ai-topic-badge completed">✅ 历史笔记归档</span>
 </div>
 </div>
@@ -125,7 +126,7 @@
 </div>
 
 <div class="ai-stat-item">
-<div class="ai-stat-value">16</div>
+<div class="ai-stat-value">17</div>
 <div class="ai-stat-label">已完成主题</div>
 </div>
 
@@ -145,7 +146,7 @@
     - 课程数: 5 主课程 + 1 synthesis
     - 论文阅读: 241 篇（80 主论文 + 161 相关）
     - 开始日期: 2026-06-01
-    - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Video Understanding, Diffusion Foundations, Score-Based Models, Sampling, Inference Serving, KV Cache
-    - 激活中主题: RL for Agents, Grounding, Batching and Scheduling, Flow Matching, OpenAI Blog
+    - 已完成主题: Architectures, Tool Use, Planning, Memory, Reasoning, VLM Pretraining, Image-Text Reasoning, Video Understanding, Diffusion Foundations, Score-Based Models, Sampling, Inference Serving, KV Cache, OpenAI Blog
+    - 激活中主题: RL for Agents, Grounding, Batching and Scheduling, Flow Matching, Anthropic Blog
     - 已完成 Lab 主题: Implementation Notes, Failure Analysis, Project Planning
     - 激活中 Lab 主题: Experiment Log (Cycle 3, 从 2026-08-01 起)
